@@ -1,13 +1,17 @@
 import {Component, Input} from '@angular/core';
 import { CommonModule } from '@angular/common';
 import {Category} from "../../models/Category";
+import {RouterLink} from "@angular/router";
 
 @Component({
   selector: 'app-box',
   standalone: true,
-  imports: [CommonModule],
+  imports: [CommonModule, RouterLink],
   template: `
-      <div class="box woop-shadow dark:woop-shadow-dark hover:woop-shadow-xl hover:dark:woop-shadow-xl-dark relative rounded-md xl:h-60 md:h-40 h-32 bg-gray-500 bg-cover bg-no-repeat bg-center cursor-pointer {{category.size}}" [style.background-image]="'url(' + category.image + ')'">
+      <div
+              class="box woop-shadow dark:woop-shadow-dark hover:woop-shadow-xl hover:dark:woop-shadow-xl-dark relative rounded-md xl:h-60 md:h-40 h-32 bg-gray-500 bg-cover bg-no-repeat bg-center cursor-pointer {{category.size}}" [style.background-image]="'url(' + category.image + ')'"
+              [routerLink]="['/category', category.id]"
+      >
           <div class="absolute bottom-0 w-full px-4 py-2 backdrop-blur backdrop-brightness-50 text-white rounded-b-md">
               {{ category.name }}
           </div>

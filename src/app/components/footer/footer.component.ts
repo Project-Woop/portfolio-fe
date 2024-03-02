@@ -1,16 +1,17 @@
 import { Component } from '@angular/core';
 import {CommonModule} from '@angular/common';
+import {RouterLink} from "@angular/router";
 
 @Component({
   selector: 'app-footer',
   standalone: true,
-  imports: [CommonModule],
+  imports: [CommonModule, RouterLink],
   template: `
       <div class="footer-grid sm:px-20 px-2 py-2 w-screen">
           <div class="flex flex-row justify-start items-center pointer-events-none">
 <!--              © Project Woop - 2024-->
           </div>
-          <div class="flex flex-col gap-1 justify-center items-center">
+          <div class="flex flex-col gap-1 justify-center items-center" [routerLink]="['/home']">
               <img src="assets/images/svg/logo.svg" class="logo pointer-events-none svg-primary dark:svg-primary-dark">
               <div class="font-bold pointer-events-none">Woop</div>
           </div>

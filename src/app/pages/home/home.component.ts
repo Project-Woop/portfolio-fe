@@ -28,24 +28,28 @@ export class HomeComponent {
         {
           id: 1,
           name: "Industrial Design",
+          description: "I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. ",
           image: "https://source.unsplash.com/random/?project",
           size: "large"
         },
         {
           id: 2,
           name: "UX Design",
+          description: "I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. ",
           image: "https://source.unsplash.com/random/?application",
           size: "large"
         },
         {
           id: 3,
           name: "Development",
+          description: "I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. ",
           image: "https://source.unsplash.com/random/?development",
           size: "large"
         },
         {
           id: 4,
           name: "Teaching",
+          description: "I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. ",
           image: "https://source.unsplash.com/random/?teaching",
           size: "large"
         }
