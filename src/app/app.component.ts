@@ -7,13 +7,21 @@ import { RouterOutlet } from '@angular/router';
   standalone: true,
   imports: [CommonModule, RouterOutlet],
   template: `
-    <!--The content below is only a placeholder and can be replaced.-->
-    <div class="text-xl font-bold text-center">
-      Welcome to {{title}}!
+
+    <div class="h-screen w-screen bg-main overflow-hidden relative">
+        <div class="relative">
+            <div class="h-screen w-screen overflow-x-auto z-10 relative">
+                <router-outlet></router-outlet>
+            </div>
+            <div class="absolute bottom-0 flex justify-center items-center h-20 w-screen z-10">
+                woop
+            </div>
+        </div>
+        <div class="ball-bg absolute path1"></div>
+        <div class="ball-bg absolute path2"></div>
     </div>
-    <router-outlet></router-outlet>
   `,
-  styles: [],
+  styleUrls: ["./app.component.scss"],
 })
 export class AppComponent {
   title = 'portfolio-fe';
