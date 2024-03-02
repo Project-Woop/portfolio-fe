@@ -12,8 +12,8 @@ import {Section} from "../../models/Section";
       <div class="bg-green-10 flex flex-col gap-2">
           <div class="text-xl font-bold ml-4"> {{ section.name }} </div>
           <div class="box-grid gap-2">
-              <ng-container *ngFor="let content of section.contents">
-                <app-box [content]="content" [ngClass]="{'span': content.size=='large'}"></app-box>
+              <ng-container *ngFor="let category of section.categories">
+                <app-box [category]="category" [ngClass]="{'span': category.size=='large'}"></app-box>
               </ng-container>
           </div>
       </div>
@@ -34,5 +34,5 @@ import {Section} from "../../models/Section";
   `]
 })
 export class ContainerComponent {
-  @Input() section: Section = {contents: [], id: 0, name: ""};
+  @Input() section: Section = {categories: [], id: 0, name: ""};
 }

@@ -1,15 +1,15 @@
 import {Component, Input} from '@angular/core';
 import { CommonModule } from '@angular/common';
-import {Content} from "../../models/Content";
+import {Category} from "../../models/Category";
 
 @Component({
   selector: 'app-box',
   standalone: true,
   imports: [CommonModule],
   template: `
-      <div class="relative rounded-md xl:h-60 md:h-40 h-32 bg-gray-500 bg-cover bg-no-repeat bg-center {{content.size}}" [style.background-image]="'url(' + content.image + ')'">
+      <div class="box woop-shadow dark:woop-shadow-dark hover:woop-shadow-xl hover:dark:woop-shadow-xl-dark relative rounded-md xl:h-60 md:h-40 h-32 bg-gray-500 bg-cover bg-no-repeat bg-center cursor-pointer {{category.size}}" [style.background-image]="'url(' + category.image + ')'">
           <div class="absolute bottom-0 w-full px-4 py-2 backdrop-blur backdrop-brightness-50 text-white rounded-b-md">
-              {{ content.name }}
+              {{ category.name }}
           </div>
       </div>
   `,
@@ -20,8 +20,17 @@ import {Content} from "../../models/Content";
     .large {
       aspect-ratio: 2.05;
     }
+
+    .box {
+      transition: 300ms;
+      transition-timing-function: cubic-bezier(0.85, 0, 0.15, 1);
+      &:hover {
+        scale: 1.05;
+        z-index: 99;
+      }
+    }
   `]
 })
 export class BoxComponent {
-  @Input() content: Content = {id: 0, image: "", name: "", size: ""};
+  @Input() category: Category = {id: 0, image: "", name: "", size: ""};
 }

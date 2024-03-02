@@ -130,6 +130,7 @@ $portfolio-fe-theme: mat.define-light-theme((
     --primary-color: 50, 58, 70;
     --foreground-color: 255, 255, 255;
     --background-color: 242,242,242;
+    --background-dark-color: 11,12,15;
 
     --woop-accent: 83, 171, 222;
     --woop-accent-light: 230, 243, 250;
@@ -153,6 +154,70 @@ $portfolio-fe-theme: mat.define-light-theme((
 html {
   touch-action: manipulation;
 }
+
+// Tailwind extension
+
+@layer utilities {
+  .bg-main {
+    background-color: rgb(var(--background-color));
+    color: rgb(var(--primary-color));
+  }
+  .bg-dark {
+    background-color: rgb(var(--background-dark-color));
+    color: rgb(var(--background-color));
+  }
+
+  .ball-bg {
+    border-radius: 100%;
+    background: radial-gradient(
+        rgba(var(--primary-color), 0.4) 0%,
+        rgba(var(--primary-color), 0) 70%
+    );
+    height: 80vh;
+    width: 50vh;
+    z-index: 0;
+  }
+
+  .ball-bg-dark {
+    border-radius: 100%;
+    background: radial-gradient(
+        rgba(var(--background-color), 0.4) 0%,
+        rgba(var(--background-color), 0) 70%
+    );
+    height: 80vh;
+    width: 50vh;
+    z-index: 0;
+  }
+
+  .svg-primary {
+    filter: invert(21%) sepia(12%) saturate(785%) hue-rotate(177deg) brightness(97%) contrast(96%);
+  }
+
+  .svg-primary-dark {
+    filter: invert(100%) sepia(83%) saturate(230%) hue-rotate(191deg) brightness(116%) contrast(90%);
+  }
+
+  .woop-shadow {
+    -webkit-box-shadow: 3px 6px 12px 0px rgba(0,0,0,0.16);
+    box-shadow: 3px 6px 12px 0px rgba(0,0,0,0.16);
+  }
+
+  .woop-shadow-dark {
+    -webkit-box-shadow: 3px 6px 12px 0px rgba(242,242,242,0.08);
+    box-shadow: 3px 6px 12px 0px rgba(242,242,242,0.08);
+  }
+
+  .woop-shadow-xl {
+    -webkit-box-shadow: 6px 12px 21px 0px rgba(0,0,0,0.32);
+    box-shadow: 6px 12px 21px 0px rgba(0,0,0,0.32);
+  }
+
+  .woop-shadow-xl-dark {
+    -webkit-box-shadow: 6px 12px 21px 0px rgba(242,242,242,0.16);
+    box-shadow: 6px 12px 21px 0px rgba(242,242,242,0.16);
+  }
+}
+
 
 // ---
 

@@ -1,7 +1,7 @@
-import {Content} from "./Content";
+import {Category} from "./Category";
 
 export interface Section {
   id: number;
   name: string;
-  contents: Content[];
+  categories: Category[];
 }
