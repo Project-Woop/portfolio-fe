@@ -1,19 +1,14 @@
 name: WOOP-MAIN
 
-# Controls when the action will run.
 on:
-  # Triggers the workflow on push or pull request events but only for the master branch
   push:
     branches: [ master ]
 
 permissions:
   contents: write
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
     name: Build and Deploy
 
@@ -21,7 +16,6 @@ jobs:
       matrix:
         node-version: [ 18.16 ]
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -32,4 +26,4 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: eeafbac02f93c14b9f38c8da0c7577ef
           projectName: portfolio-fe
-          directory: /dist/portfolio-fe
+          directory: /
