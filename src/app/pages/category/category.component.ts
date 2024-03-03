@@ -13,7 +13,7 @@ import { HttpClient } from "@angular/common/http";
   standalone: true,
   imports: [CommonModule, ContainerComponent, HorizontalScrollDirective, RouterLink, ProjectBoxComponent],
   template: `
-    <div class="h-screen overflow-y-hidden flex flex-col justify-center gap-2 px-20" appHorizontalScroll>
+    <div class="h-screen-responsive overflow-y-hidden flex flex-col justify-center gap-2 px-20" appHorizontalScroll>
         <div class="sticky ml-4 text-2xl">
             {{ category?.name }}
         </div>

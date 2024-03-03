@@ -12,7 +12,7 @@ import {ProjectBoxComponent} from "../../components/project/project-box.componen
   standalone: true,
   imports: [CommonModule, HorizontalScrollDirective, ProjectBoxComponent],
   template: `
-      <div class="h-screen overflow-y-hidden flex flex-col justify-center gap-2 px-20" appHorizontalScroll>
+      <div class="h-screen-responsive overflow-y-hidden flex flex-col justify-center gap-2 px-20" appHorizontalScroll>
           <div class="sticky ml-4 text-2xl">
               {{ project.name }}
           </div>

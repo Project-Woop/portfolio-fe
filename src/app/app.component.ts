@@ -9,9 +9,9 @@ import {FooterComponent} from "./components/footer/footer.component";
   imports: [CommonModule, RouterOutlet, FooterComponent],
   template: `
 
-    <div class="h-screen w-screen bg-main dark:bg-dark overflow-hidden relative">
+    <div class="h-full w-screen bg-main dark:bg-dark overflow-hidden relative">
         <div class="relative">
-            <div class="h-screen w-screen overflow-x-auto z-10 relative">
+            <div class="w-screen overflow-x-auto z-10 relative">
                 <router-outlet></router-outlet>
             </div>
             <div class="fixed top-4 sm:top-auto sm:bottom-0 z-10">
@@ -25,5 +25,14 @@ import {FooterComponent} from "./components/footer/footer.component";
   styleUrls: ["./app.component.scss"],
 })
 export class AppComponent {
-  title = 'portfolio-fe';
+
+  constructor() {
+    const appHeight = () => {
+      const doc = document.documentElement;
+      doc.style.setProperty('--app-height', `${window.innerHeight}px`);
+    };
+    window.addEventListener('resize', appHeight);
+    appHeight();
+  }
+
 }
