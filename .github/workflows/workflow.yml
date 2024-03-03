@@ -31,17 +31,9 @@ jobs:
 
       - name: Build
         run: yarn build
-      #
-      #      - name: Deploy
-      #        uses: JamesIves/github-pages-deploy-action@4.1.1
-      #        with:
-      #            branch: gh-pages
-      #            folder: dist/portfolio-fe
 
-      - name: Deploy to GitHub Pages
-        uses: angular-schule/angular-cli-ghpages@v1
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@4.1.1
         with:
-          github_access_token: ${{ secrets.GITHUB_TOKEN }}
-          cname: staging.projectwoop.it
-          branch: gh-pages
-          dir: dist/portfolio-fe
+            branch: gh-pages
+            folder: dist/portfolio-fe
