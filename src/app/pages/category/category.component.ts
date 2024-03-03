@@ -18,7 +18,7 @@ import { HttpClient } from "@angular/common/http";
             {{ category?.name }}
         </div>
         <div class="flex flex-row gap-2 items-center">
-            <div class="brief pr-20 xl:h-[30em] md:h-80 h-64 ">
+            <div class="aspect-[2] columns-2 xl:columns-1 xl:aspect-square xl:h-[30em] md:h-80 h-64">
                 {{ category?.description }}
             </div>
             <ng-container *ngFor="let project of projects">
@@ -28,9 +28,6 @@ import { HttpClient } from "@angular/common/http";
     </div>
   `,
   styles: [`
-    .brief {
-      aspect-ratio: 1;
-    }
   `]
 })
 export class CategoryComponent {
