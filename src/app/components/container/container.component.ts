@@ -10,7 +10,7 @@ import {Section} from "../../models/Section";
   imports: [CommonModule, BoxComponent],
   template: `
       <div class="bg-green-10 flex flex-col gap-2">
-          <div class="text-2xl font-bold ml-4"> {{ section.name }} </div>
+          <div class="text-2xl ml-4"> {{ section.name }} </div>
           <div class="box-grid gap-2">
               <ng-container *ngFor="let category of section.categories">
                 <app-box [category]="category" [ngClass]="{'span': category.size=='large'}"></app-box>

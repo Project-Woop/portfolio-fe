@@ -14,7 +14,7 @@ import {FooterComponent} from "./components/footer/footer.component";
             <div class="h-screen w-screen overflow-x-auto z-10 relative">
                 <router-outlet></router-outlet>
             </div>
-            <div class="fixed bottom-0 z-10">
+            <div class="fixed top-4 sm:top-auto sm:bottom-0 z-10">
                 <app-footer></app-footer>
             </div>
         </div>
