@@ -14,16 +14,14 @@ jobs:
     runs-on: ubuntu-latest
     name: Build and Deploy
 
+    strategy:
+      matrix:
+        node-version: [ 18.16 ]
+
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Checkout
         uses: actions/checkout@master
-
-      - name: Bucket actions
-        uses: actions/setup-node@v3
-        with:
-          node-version: 18
-          cache: npm
 
       - name: Install dependencies
         run: npm install
