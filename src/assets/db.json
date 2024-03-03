@@ -206,123 +206,224 @@
   "projects": [
     {
       "id": 1,
-      "name": "SPAZIOTEMPO",
-      "description": "una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima ",
-      "categoryId": 1,
+      "name": "Project Woop - Branding",
+      "description": "Personal branding project. Its origin is connected to an years-long unconscious story, but its final form is a totally defined identity.\nThe logo is both simple and recognizable, working well in every occasion. The similarity to a human eye has made it possible to make it a 3D mascotte, and its simpleness can generate a lot of variations all equally loyal to the design language.\n The name is short and of impact. Woop is difficult to forget as a sound and implicitly makes you think about something future oriented, innovative.",
+      "categoryId": 4,
       "images": [
-        "https://source.unsplash.com/random/?spazio",
-        "https://source.unsplash.com/random/?tempo",
-        "https://source.unsplash.com/random/?einstein"
+        "https://assets.projectwoop.it/woop/woop.jpg",
+        "https://assets.projectwoop.it/woop/woop-2.jpg",
+        "https://assets.projectwoop.it/woop/1.jpg",
+        "https://assets.projectwoop.it/woop/2.jpg",
+        "https://assets.projectwoop.it/woop/3.jpg",
+        "https://assets.projectwoop.it/woop/4.jpg",
+        "https://assets.projectwoop.it/woop/6.jpg",
+        "https://assets.projectwoop.it/woop/7.jpg"
       ]
     },
     {
       "id": 2,
       "name": "SPAZIOTEMPO",
-      "description": "una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima ",
+      "description": "The collection is composed by four elements: a chair, a table, a clock and a light system.\nAnima, Bubbly, Relativo and Breath come together to explore the illusions of the beliefs\nthat live with us.\nThey dabble in space and time, showcasing fact and fiction of the dimensions in which we exist. Anima is inspired by the most classic seats of modern design, distorting their reality from their appearance. The illusory path here meets a contrast of spaces, facilitated by the transparent elements. What would naturally be considered the main seat after a first analysis fades into the background, representing a phantom exoskeleton that surrounds the real seat that would be able to perform its function even individually. Bubbly starts from abstractionist inspirations and reflections on the perception of forms in space. If Kandinsky claimed that moving a point higher up in the square that contains it gave it lightness, the opposite is also true. The bubble that envelops the metal top of the table is slightly lower than the centre, communicating first lightness and then a sense of weight upon closer inspection. Relativo is visibly a clock. It’s unclear to read it. The hands have the same length and tends towards infinity, wrapping around the body of the watch until it disappears. Furthermore, their motion is uncoordinated, moving at a non-constant speed and in opposite directions. It seems to want to inform us about the passing of time but only reveals the non-existence of the same. Time is a human invention and depends on the perception of each of us, it cannot be measured. Breath is the name that best represents the movement produced by this lighting system. Inside a transparent shell, a light bulb floats as lightly as the movement of a human diaphragm. The projected light is therefore never the same, creating plays of shadows and glares that unravel the space, emphasizing its characteristics.",
       "categoryId": 1,
       "images": [
-        "https://source.unsplash.com/random/?spazio",
-        "https://source.unsplash.com/random/?tempo",
-        "https://source.unsplash.com/random/?einstein"
+        "https://assets.projectwoop.it/spaziotempo/spaziotempo.jpg",
+        "https://assets.projectwoop.it/spaziotempo/anima1.jpg",
+        "https://assets.projectwoop.it/spaziotempo/anima2.jpg",
+        "https://assets.projectwoop.it/spaziotempo/anima3.jpg",
+        "https://assets.projectwoop.it/spaziotempo/anima4.jpg",
+        "https://assets.projectwoop.it/spaziotempo/anima5.jpg",
+        "https://assets.projectwoop.it/spaziotempo/anima6.jpg",
+        "https://assets.projectwoop.it/spaziotempo/bubbly-1.jpg",
+        "https://assets.projectwoop.it/spaziotempo/bubbly-2.jpg",
+        "https://assets.projectwoop.it/spaziotempo/bubbly-3.jpg",
+        "https://assets.projectwoop.it/spaziotempo/bubbly-4.jpg",
+        "https://assets.projectwoop.it/spaziotempo/bubbly-5.jpg",
+        "https://assets.projectwoop.it/spaziotempo/bubbly-6.jpg",
+        "https://assets.projectwoop.it/spaziotempo/relativo.jpg",
+        "https://assets.projectwoop.it/spaziotempo/breath-1.jpg",
+        "https://assets.projectwoop.it/spaziotempo/breath-2.jpg",
+        "https://assets.projectwoop.it/spaziotempo/breath-3.jpg",
+        "https://assets.projectwoop.it/spaziotempo/breath-4.jpg",
+        "https://assets.projectwoop.it/spaziotempo/breath-5.jpg",
+        "https://assets.projectwoop.it/spaziotempo/breath-6.jpg"
       ]
     },
     {
       "id": 3,
-      "name": "SPAZIOTEMPO",
-      "description": "una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima ",
+      "name": "Marasma",
+      "description": "Marasma is chaos and order mixed together in the wrong way. We see in nature chaos in many different form but if we analyze each one of them, we can see order at its principle. \nMarasma tries to do the opposite at first glance. The core of its structure is the most perfect geometric shape: a cube. It resembles one of the most ordinated structure: the grid. But the perfectly ordered plane is held by the same elements put in a chaotic way you can’t understand quickly. Only if you study every single cube you can find an ordered inner schema that makes the structure possible.",
       "categoryId": 1,
       "images": [
-        "https://source.unsplash.com/random/?spazio",
-        "https://source.unsplash.com/random/?tempo",
-        "https://source.unsplash.com/random/?einstein"
+        "https://assets.projectwoop.it/marasma/marasma.jpg",
+        "https://assets.projectwoop.it/marasma/marasma2.jpg",
+        "https://assets.projectwoop.it/marasma/marasma3.jpg",
+        "https://assets.projectwoop.it/marasma/marasma4.jpg",
+        "https://assets.projectwoop.it/marasma/marasma5.jpg"
       ]
     },
     {
       "id": 4,
-      "name": "SPAZIOTEMPO",
-      "description": "una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima ",
-      "categoryId": 3,
+      "name": "Oltremodo",
+      "description": "Oltremodo is a collection based on the simplest production techniques but with the goal of achieving elegance.\nBy simply bending and cutting sheet metal or tubular metal, we obtain a chair in two different form factors, a table and a set of cutlery and crockery.",
+      "categoryId": 1,
       "images": [
-        "https://source.unsplash.com/random/?spazio",
-        "https://source.unsplash.com/random/?tempo",
-        "https://source.unsplash.com/random/?einstein"
+        "https://assets.projectwoop.it/oltremodo/oltremodo1.jpg",
+        "https://assets.projectwoop.it/oltremodo/oltremodo2.jpg",
+        "https://assets.projectwoop.it/oltremodo/oltremodo3.jpg",
+        "https://assets.projectwoop.it/oltremodo/oltremodo4.jpg",
+        "https://assets.projectwoop.it/oltremodo/oltremodo5.jpg",
+        "https://assets.projectwoop.it/oltremodo/oltremodo6.jpg",
+        "https://assets.projectwoop.it/oltremodo/oltremodo7.jpg"
       ]
     },
     {
       "id": 5,
-      "name": "SPAZIOTEMPO",
-      "description": "una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima ",
-      "categoryId": 3,
+      "name": "Acida",
+      "description": "Made just for fun, it’s indeed a fun looking stool which can be very versatile and comfortable.\nWith its vivid colors and nature-inspired form, it sparks joy and can be the core of a visually distinguishing space.\nThe structure is made of polycarbonate with a soft seat on top, the footrest is a shiny tubular metal and the backrest is made of a translucent plastic capable of revolve around the base.  ",
+      "categoryId": 1,
       "images": [
-        "https://source.unsplash.com/random/?spazio",
-        "https://source.unsplash.com/random/?tempo",
-        "https://source.unsplash.com/random/?einstein"
+        "https://assets.projectwoop.it/acida/acida.jpg",
+        "https://assets.projectwoop.it/acida/acida2.jpg",
+        "https://assets.projectwoop.it/acida/acida3.jpg",
+        "https://assets.projectwoop.it/acida/acida4.jpg",
+        "https://assets.projectwoop.it/acida/acida5.jpg",
+        "https://assets.projectwoop.it/acida/acida6.jpg"
       ]
     },
     {
       "id": 6,
-      "name": "SPAZIOTEMPO",
-      "description": "una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima ",
+      "name": "Phone 1",
+      "description": "One of my most serious projects of the early era. It’s a phone with an unique look, not following any of the design trends the market is following, making it easy to outstand.\nBesides that, the camera is the rally outstanding part. Instead of using as much camera as the space lets you, I’m using just one sensor and letting the whole phone height replace the other features. Making the lens move through the phone, it can mimic the principle of a DSLR in a very thin space. \nIt can’t be that incredible since Apple patented something similar years later.",
       "categoryId": 1,
       "images": [
-        "https://source.unsplash.com/random/?spazio",
-        "https://source.unsplash.com/random/?tempo",
-        "https://source.unsplash.com/random/?einstein"
+        "https://assets.projectwoop.it/phone-1/ph1.jpg",
+        "https://assets.projectwoop.it/phone-1/ph2.jpg",
+        "https://assets.projectwoop.it/phone-1/ph3.jpg",
+        "https://assets.projectwoop.it/phone-1/ph4.jpg",
+        "https://assets.projectwoop.it/phone-1/ph5.jpg",
+        "https://assets.projectwoop.it/phone-1/ph6.jpg"
       ]
     },
     {
       "id": 7,
-      "name": "SPAZIOTEMPO",
-      "description": "una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima ",
+      "name": "Razer Phone 2",
+      "description": "Here I studied a way to make the back of the phone useful in games, putting a touchpad utilizable, for example, to aim in shooter games or unlock extra features in exclusive games. \nFor the rest of the redesign, I stayed close to the original Razer language.\nI’ve sent pictures of the concept to a lot of online magazines and influencers and some of them started believing that this would’ve been the actual Razer Phone 2. From feedbacks and people comments, they seem to like it :D.",
       "categoryId": 1,
       "images": [
-        "https://source.unsplash.com/random/?spazio",
-        "https://source.unsplash.com/random/?tempo",
-        "https://source.unsplash.com/random/?einstein"
+        "https://assets.projectwoop.it/rzr-phone-2/news.jpg",
+        "https://assets.projectwoop.it/rzr-phone-2/rzr1.jpg",
+        "https://assets.projectwoop.it/rzr-phone-2/rzr2.jpg",
+        "https://assets.projectwoop.it/rzr-phone-2/rzr3.jpg",
+        "https://assets.projectwoop.it/rzr-phone-2/rzr4.jpg"
       ]
     },
     {
       "id": 8,
-      "name": "SPAZIOTEMPO",
-      "description": "una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima ",
+      "name": "Cyber Sink",
+      "description": "In 2019 Tesla unveils the probably most controverse truck ever. I loved its bravery.\nSo why shouldn’t I try to use the same unique design language to make a sink?\nIt provides unique features like two knobs (one for the pressure and one for the heat) that can keep the water temperature consistent, or the QI charging bases, in case you need to charge your Cyber toothbr mk I. ",
       "categoryId": 1,
       "images": [
-        "https://source.unsplash.com/random/?spazio",
-        "https://source.unsplash.com/random/?tempo",
-        "https://source.unsplash.com/random/?einstein"
+        "https://assets.projectwoop.it/cyber-sink/sink1.jpg",
+        "https://assets.projectwoop.it/cyber-sink/sink2.jpg",
+        "https://assets.projectwoop.it/cyber-sink/sink3.jpg",
+        "https://assets.projectwoop.it/cyber-sink/sink4.jpg",
+        "https://assets.projectwoop.it/cyber-sink/sink5.jpg",
+        "https://assets.projectwoop.it/cyber-sink/sink6.jpg"
       ]
     },
     {
       "id": 9,
-      "name": "SPAZIOTEMPO",
-      "description": "una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima ",
+      "name": "Flusso",
+      "description": "Experiment exploring new ways humans interact with products. Flusso is a simple wall lamp that requires a physical interaction to be turned on. The emissive body has to be lift up to start getting bright. It’s fully dimmable and the upper it gets, the brighter it is.",
       "categoryId": 1,
       "images": [
-        "https://source.unsplash.com/random/?spazio",
-        "https://source.unsplash.com/random/?tempo",
-        "https://source.unsplash.com/random/?einstein"
+        "https://assets.projectwoop.it/flusso/flusso1.jpg",
+        "https://assets.projectwoop.it/flusso/flusso2.jpg",
+        "https://assets.projectwoop.it/flusso/flusso3.jpg",
+        "https://assets.projectwoop.it/flusso/flusso4.jpg",
+        "https://assets.projectwoop.it/flusso/flusso5.jpg",
+        "https://assets.projectwoop.it/flusso/flusso6.jpg",
+        "https://assets.projectwoop.it/flusso/flusso7.jpg"
       ]
     },
     {
       "id": 10,
-      "name": "SPAZIOTEMPO",
-      "description": "una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima una collezione bellissima ",
+      "name": "Gravità",
+      "description": "Following the same principle of Flusso, with Gravità you have to physically interact with it in order to turn the light on. When the lamp is turned off, you can see on its base a shiny metal ball. The upper part feels like a flipped cone, like a basket. It’s so natural to take the ball and throw it inside that cone: that’s the light switch. The metal ball, falling between the metal pipes, closes a low voltage circuit that will turn on the lightbulb. To turn the light back off, you have to physically lift the pipes and see the ball falling into the base, opening the circuit again and turning the bulb off.",
       "categoryId": 1,
       "images": [
-        "https://source.unsplash.com/random/?spazio",
-        "https://source.unsplash.com/random/?tempo",
-        "https://source.unsplash.com/random/?einstein"
+        "https://assets.projectwoop.it/gravita/ON-1.jpg",
+        "https://assets.projectwoop.it/gravita/OFF-1.jpg",
+        "https://assets.projectwoop.it/gravita/ON-2.jpg",
+        "https://assets.projectwoop.it/gravita/OFF-2.jpg",
+        "https://assets.projectwoop.it/gravita/ON-3.jpg",
+        "https://assets.projectwoop.it/gravita/OFF-3.jpg",
+        "https://assets.projectwoop.it/gravita/ON-4.jpg",
+        "https://assets.projectwoop.it/gravita/OFF-4.jpg",
+        "https://assets.projectwoop.it/gravita/ON-5.jpg",
+        "https://assets.projectwoop.it/gravita/OFF-5.jpg"
       ]
     },
     {
       "id": 11,
-      "name": "MAMAMAM",
-      "description": "una collezione mediocre",
-      "categoryId": 1,
+      "name": "SottoSopra app",
+      "description": "Working at Overzoom, I’ve made the app responsible to keep track of the work in progress railway burial of my city, Andria.\nI’ve made firstly the UI/UX project, curing every visual aspect, then developed the app itself using Flutter.",
+      "categoryId": 3,
       "images": [
-        "https://source.unsplash.com/random/?legno",
-        "https://source.unsplash.com/random/?tavolo",
-        "https://source.unsplash.com/random/?sedia"
+        "https://assets.projectwoop.it/sottosopra/sottosopra1.jpg",
+        "https://assets.projectwoop.it/sottosopra/sottosopra-2.jpg",
+        "https://assets.projectwoop.it/sottosopra/sottosopra-3.jpg",
+        "https://assets.projectwoop.it/sottosopra/sottosopra-4.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Orange Charge app",
+      "description": "Orange Charge is an app thanks to which you can charge your electric vehicle via the Orange Network. Like every project done in Overzoom, I’ve first made the UX/UI project then developed the whole app. For this project I’ve also done the back-end responsible of communicating with the chargeboxes in NodeJS.",
+      "categoryId": 3,
+      "images": [
+        "https://assets.projectwoop.it/orange/orange-1.jpg",
+        "https://assets.projectwoop.it/orange/orange-2.jpg",
+        "https://assets.projectwoop.it/orange/orange-3.jpg",
+        "https://assets.projectwoop.it/orange/orange-4.jpg"
+
+      ]
+    },
+    {
+      "id": 13,
+      "name": "BachecApp & FollowApp",
+      "description": "Two really complete projects done in Overzoom, in which I’ve cured the whole branding and design language, then made the UX/UI part for both the mobile app and the desktop back-office and finally developed mobile app in Flutter, back-end in NodeJS and back-office in ReactJS.",
+      "categoryId": 3,
+      "images": [
+        "https://assets.projectwoop.it/bachecapp-followapp/bachecapp-followapp-1.jpg",
+        "https://assets.projectwoop.it/bachecapp-followapp/bachecapp-followapp-2.jpg",
+        "https://assets.projectwoop.it/bachecapp-followapp/bachecapp-followapp-3.jpg",
+        "https://assets.projectwoop.it/bachecapp-followapp/bachecapp-followapp-4.jpg"
+
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Reraise app",
+      "description": "App made for a professional poker room based in Barletta. In Overzoom, I’ve been able to design and develop an app capable of register new users and make them do all they need in the poker room via their personal QR-Code. \nThe app also shows personal infos like personal points, tickets and the jackpot. It also features a live section where you can watch on-going tournaments and their real-time infos.",
+      "categoryId": 3,
+      "images": [
+        "https://assets.projectwoop.it/reraise/reraise-1.jpg",
+        "https://assets.projectwoop.it/reraise/reraise-2.jpg",
+        "https://assets.projectwoop.it/reraise/reraise-3.jpg",
+        "https://assets.projectwoop.it/reraise/reraise-4.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Overzoom UI",
+      "description": "Every great brand that wants to stand out needs an impactful visual coherence. Big brands put a lot of efforts into making their User Interfaces well recognizable, familiar and efficient. For Overzoom, I’ve designed a UI kit that shapes the future of the company products, improving by a lot the quality of the softwares developed.",
+      "categoryId": 3,
+      "images": [
+        "https://assets.projectwoop.it/overzoom-ui/overzoom-ui-1.jpg",
+        "https://assets.projectwoop.it/overzoom-ui/overzoom-ui-2.jpg",
+        "https://assets.projectwoop.it/overzoom-ui/overzoom-ui-3.jpg",
+        "https://assets.projectwoop.it/overzoom-ui/overzoom-ui-4.jpg"
       ]
     }
   ]
