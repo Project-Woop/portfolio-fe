@@ -47,6 +47,6 @@ export class AppComponent {
   }
 
   private isHomePage() {
-    return this.router.url === '/';
+    return (this.router.url === '/' || this.router.url === '/home');
   }
 }
