@@ -21,7 +21,7 @@ import { HttpClient } from "@angular/common/http";
             <div class="aspect-[2] columns-2 xl:columns-1 xl:aspect-square xl:h-[30em] md:h-80 h-64">
                 {{ category?.description }}
             </div>
-            <ng-container *ngFor="let project of projects">
+            <ng-container *ngFor="let project of projects; let i = index">
                 <app-project-box [project]="project"></app-project-box>
             </ng-container>
         </div>

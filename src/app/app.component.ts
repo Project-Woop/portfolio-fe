@@ -1,7 +1,7 @@
-import { Component } from '@angular/core';
-import { CommonModule } from '@angular/common';
-import { RouterOutlet } from '@angular/router';
-import {FooterComponent} from "./components/footer/footer.component";
+import {Component, HostListener} from '@angular/core';
+import { CommonModule, Location } from '@angular/common';
+import {Router, RouterOutlet} from '@angular/router';
+import { FooterComponent } from "./components/footer/footer.component";
 
 @Component({
   selector: 'app-root',
@@ -26,7 +26,7 @@ import {FooterComponent} from "./components/footer/footer.component";
 })
 export class AppComponent {
 
-  constructor() {
+  constructor(private location: Location, private router: Router) {
     const appHeight = () => {
       const doc = document.documentElement;
       doc.style.setProperty('--app-height', `${window.innerHeight}px`);
@@ -35,4 +35,18 @@ export class AppComponent {
     appHeight();
   }
 
+  @HostListener('document:keydown', ['$event'])
+  handleKeyDown(event: KeyboardEvent) {
+    const target = event.target as HTMLElement;
+    const isInput = target.tagName === 'INPUT' || target.tagName === 'TEXTAREA' || target.isContentEditable;
+
+    if (event.key === 'Backspace' && !isInput && !this.isHomePage()) {
+      this.location.back();
+      event.preventDefault();
+    }
+  }
+
+  private isHomePage() {
+    return this.router.url === '/';
+  }
 }
