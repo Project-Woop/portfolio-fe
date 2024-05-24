@@ -8,24 +8,24 @@ import {RouterLink} from "@angular/router";
   imports: [CommonModule, RouterLink],
   template: `
       <div class="footer-grid sm:px-20 px-8 py-2 w-screen">
-          <div class="hidden sm:flex flex-row justify-start items-center pointer-events-none">
+          <div class="hidden sm:flex flex-row justify-start items-center pointer-events-none" tabindex="7">
               © Project Woop - 2024
           </div>
-          <div class="flex flex-col gap-1 justify-center items-center" [routerLink]="['/home']">
+          <div class="flex flex-col gap-1 justify-center items-center" [routerLink]="['/home']" tabindex="4">
               <img src="assets/images/svg/logo.svg" class="logo pointer-events-none svg-primary dark:svg-primary-dark" alt="Woop logo">
               <div class="hidden text-xl sm:block pointer-events-none">Woop</div>
           </div>
-          <div class="flex flex-row gap-4 justify-end items-center">
-              <a href="https://www.instagram.com/project.woop/">
+          <div class="flex flex-row gap-4 justify-end items-center" tabindex="5">
+              <a href="https://www.instagram.com/project.woop/" aria-label="project woop instagram profile" tabindex="6">
                 <img src="assets/images/svg/instagram.svg" class="social svg-primary dark:svg-primary-dark" alt="instagram">
               </a>
-              <a href="https://www.behance.net/vincenzolomuscio">
+              <a href="https://www.behance.net/vincenzolomuscio" aria-label="vincenzo lomuscio behance profile" tabindex="6">
                   <img src="assets/images/svg/behance.svg" class="social svg-primary dark:svg-primary-dark" alt="behance">
               </a>
-              <a href="https://www.linkedin.com/in/vincenzo-lomuscio-942815170/">
+              <a href="https://www.linkedin.com/in/vincenzo-lomuscio-942815170/" aria-label="vincenzo lomuscio linkedin profile" tabindex="6">
                 <img src="assets/images/svg/linkedin.svg" class="social svg-primary dark:svg-primary-dark" alt="linkedin">
               </a>
-              <a href="mailto:vincenzo@projectwoop.it">
+              <a href="mailto:vincenzo@projectwoop.it" aria-label="send email to project woop" tabindex="6">
                   <img src="assets/images/svg/mail.svg" class="social svg-primary dark:svg-primary-dark" alt="email">
               </a>
           </div>

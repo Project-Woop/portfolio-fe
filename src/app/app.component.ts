@@ -8,9 +8,13 @@ import { FooterComponent } from "./components/footer/footer.component";
   standalone: true,
   imports: [CommonModule, RouterOutlet, FooterComponent],
   template: `
-
     <div class="h-full w-screen bg-main dark:bg-dark overflow-hidden relative">
         <div class="relative">
+            <div class="back-icon z-20 absolute ml-20 mt-20" *ngIf="!isHomePage()" tabindex="1" (click)="goBack()" (keydown)="onBackKeydown($event)" aria-label="Back button">
+                <span class="material-symbols-rounded" style="font-size: 4em">
+                    chevron_left
+                </span>
+            </div>
             <div class="w-screen overflow-x-auto z-10 relative">
                 <router-outlet></router-outlet>
             </div>
@@ -41,12 +45,24 @@ export class AppComponent {
     const isInput = target.tagName === 'INPUT' || target.tagName === 'TEXTAREA' || target.isContentEditable;
 
     if (event.key === 'Backspace' && !isInput && !this.isHomePage()) {
-      this.location.back();
+      this.goBack();
       event.preventDefault();
     }
   }
 
-  private isHomePage() {
+  isHomePage() {
     return (this.router.url === '/' || this.router.url === '/home');
+  }
+
+  goBack() {
+    console.log("Back");
+    this.location.back();
+  }
+
+  onBackKeydown(event: KeyboardEvent) {
+    if (event.key === 'Enter') {
+      this.goBack();
+      event.preventDefault();
+    }
   }
 }

@@ -206,3 +206,14 @@ body {
   height: var(--app-height) !important;
 }
 
+.back-icon {
+  transition: 300ms;
+  transition-timing-function: cubic-bezier(0.85, 0, 0.15, 1);
+  &:hover {
+    scale: 1.2;
+    cursor: pointer;
+  }
+  &:focus {
+    scale: 1.2;
+  }
+}
