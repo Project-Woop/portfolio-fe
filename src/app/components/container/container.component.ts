@@ -13,7 +13,7 @@ import {Section} from "../../models/Section";
           <div class="text-2xl ml-4"> {{ section.name }} </div>
           <div class="box-grid gap-2">
               <ng-container *ngFor="let category of section.categories; let i = index">
-                <app-box [attr.tabindex]="i" [category]="category" [ngClass]="{'span': category.size=='large'}"></app-box>
+                <app-box [category]="category" [ngClass]="{'span': category.size=='large'}"></app-box>
               </ng-container>
           </div>
       </div>

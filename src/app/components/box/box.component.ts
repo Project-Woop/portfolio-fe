@@ -10,9 +10,9 @@ import {Router, RouterLink} from "@angular/router";
   template: `
       <div
               class="box woop-shadow dark:woop-shadow-dark hover:woop-shadow-xl hover:dark:woop-shadow-xl-dark relative rounded-md xl:h-60 md:h-40 h-32 bg-gray-500 bg-cover bg-no-repeat bg-center cursor-pointer {{category.size}}" [style.background-image]="'url(' + category.image + ')'"
-              [routerLink]="['/category', category.id]" (keydown)="onKeydown($event)"
+              [routerLink]="['/category', category.id]" (keydown)="onKeydown($event)" tabindex="1"
       >
-          <div class="absolute bottom-0 w-full px-4 py-2 backdrop-blur backdrop-brightness-50 text-white rounded-b-md">
+          <div class="category-name absolute bottom-0 w-full px-4 py-2 backdrop-blur backdrop-brightness-50 text-white rounded-b-md">
               {{ category.name }}
           </div>
       </div>
@@ -21,6 +21,7 @@ import {Router, RouterLink} from "@angular/router";
     .small {
       aspect-ratio: 1;
     }
+
     .large {
       aspect-ratio: 2.05;
     }
@@ -28,12 +29,20 @@ import {Router, RouterLink} from "@angular/router";
     .box {
       transition: 300ms;
       transition-timing-function: cubic-bezier(0.85, 0, 0.15, 1);
+
       &:hover {
         scale: 1.05;
         z-index: 99;
       }
+
       &:focus {
         border: 10px solid;
+      }
+
+      &:focus-within {
+        .category-name {
+          border-radius: 0;
+        }
       }
     }
   `]
