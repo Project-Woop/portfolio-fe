@@ -250,7 +250,7 @@
     {
       "id": 3,
       "name": "Marasma",
-      "description": "Marasma is chaos and order mixed together in the wrong way. We see in nature chaos in many different form but if we analyze each one of them, we can see order at its principle. \nMarasma tries to do the opposite at first glance. The core of its structure is the most perfect geometric shape: a cube. It resembles one of the most ordinated structure: the grid. But the perfectly ordered plane is held by the same elements put in a chaotic way you can’t understand quickly. Only if you study every single cube you can find an ordered inner schema that makes the structure possible.",
+      "description": "Marasma blends chaos and order in a seemingly discordant manner. In nature, chaos manifests in various forms, yet upon closer examination, an underlying order emerges. Marasma seeks to invert this perception. At its core lies a perfect geometric shape: a cube, reminiscent of an orderly grid. However, this plane is supported by elements arranged chaotically, defying immediate comprehension. Only through meticulous study of each cube does an internal schema of order reveal itself, making the structure possible.",
       "categoryId": 1,
       "images": [
         "https://assets.projectwoop.it/marasma/marasma.jpg",
@@ -263,7 +263,7 @@
     {
       "id": 4,
       "name": "Oltremodo",
-      "description": "Oltremodo is a collection based on the simplest production techniques but with the goal of achieving elegance.\nBy simply bending and cutting sheet metal or tubular metal, we obtain a chair in two different form factors, a table and a set of cutlery and crockery.",
+      "description": "Oltremodo is a collection that leverages the simplest production techniques to achieve elegance. By merely bending and cutting sheet metal or tubular metal, the collection includes a chair in two different form factors, a table, and a set of cutlery and crockery.",
       "categoryId": 1,
       "images": [
         "https://assets.projectwoop.it/oltremodo/oltremodo1.jpg",
@@ -292,7 +292,7 @@
     {
       "id": 6,
       "name": "Phone 1",
-      "description": "One of my most serious projects of the early era. It’s a phone with an unique look, not following any of the design trends the market is following, making it easy to outstand.\nBesides that, the camera is the rally outstanding part. Instead of using as much camera as the space lets you, I’m using just one sensor and letting the whole phone height replace the other features. Making the lens move through the phone, it can mimic the principle of a DSLR in a very thin space. \nIt can’t be that incredible since Apple patented something similar years later.",
+      "description": "One of my most serious early projects is a phone with a unique design that defies market trends, making it stand out. The camera is particularly noteworthy. Instead of maximizing the number of cameras, I opted for a single sensor and utilized the phone's entire height to enhance its features. By allowing the lens to move along the phone's length, it replicates the functionality of a DSLR in a slim form factor. This concept was so innovative that Apple patented a similar technology years later.",
       "categoryId": 1,
       "images": [
         "https://assets.projectwoop.it/phone-1/ph1.jpg",
@@ -306,7 +306,7 @@
     {
       "id": 7,
       "name": "Razer Phone 2",
-      "description": "Here I studied a way to make the back of the phone useful in games, putting a touchpad utilizable, for example, to aim in shooter games or unlock extra features in exclusive games. \nFor the rest of the redesign, I stayed close to the original Razer language.\nI’ve sent pictures of the concept to a lot of online magazines and influencers and some of them started believing that this would’ve been the actual Razer Phone 2. From feedbacks and people comments, they seem to like it :D.",
+      "description": "In this project, I explored ways to make the back of a phone functional for gaming by incorporating a touchpad that can be used for aiming in shooter games or unlocking additional features in exclusive titles. For the rest of the redesign, I adhered closely to Razer's original design language. I shared images of the concept with numerous online magazines and influencers, and some began to speculate that this might be the actual Razer Phone 2. Based on the feedback and comments received, the concept was well-received.",
       "categoryId": 1,
       "images": [
         "https://assets.projectwoop.it/rzr-phone-2/news.jpg",
@@ -319,7 +319,7 @@
     {
       "id": 8,
       "name": "Cyber Sink",
-      "description": "In 2019 Tesla unveils the probably most controverse truck ever. I loved its bravery.\nSo why shouldn’t I try to use the same unique design language to make a sink?\nIt provides unique features like two knobs (one for the pressure and one for the heat) that can keep the water temperature consistent, or the QI charging bases, in case you need to charge your Cyber toothbr mk I. ",
+      "description": "In 2019, Tesla unveiled what is arguably the most controversial truck ever created. I admired its boldness. Therefore, I decided to apply the same distinctive design language to a sink. This sink features unique elements, such as two knobs—one for pressure and one for temperature—that can maintain a consistent water temperature, as well as Qi charging bases for charging devices like the Cyber Toothbrush Mk I. Additionally, the project includes a smart mirror capable of displaying the most useful information for your day.",
       "categoryId": 1,
       "images": [
         "https://assets.projectwoop.it/cyber-sink/sink1.jpg",
@@ -333,7 +333,7 @@
     {
       "id": 9,
       "name": "Flusso",
-      "description": "Experiment exploring new ways humans interact with products. Flusso is a simple wall lamp that requires a physical interaction to be turned on. The emissive body has to be lift up to start getting bright. It’s fully dimmable and the upper it gets, the brighter it is.",
+      "description": "A wall lamp with a minimalist design that requires physical interaction to be turned on. The light-emitting body must be manually lifted for it to start illuminating. The lamp features a continuous dimming system, meaning the brightness increases proportionally to the height at which the light-emitting body is raised.",
       "categoryId": 1,
       "images": [
         "https://assets.projectwoop.it/flusso/flusso1.jpg",
@@ -348,7 +348,7 @@
     {
       "id": 10,
       "name": "Gravità",
-      "description": "Following the same principle of Flusso, with Gravità you have to physically interact with it in order to turn the light on. When the lamp is turned off, you can see on its base a shiny metal ball. The upper part feels like a flipped cone, like a basket. It’s so natural to take the ball and throw it inside that cone: that’s the light switch. The metal ball, falling between the metal pipes, closes a low voltage circuit that will turn on the lightbulb. To turn the light back off, you have to physically lift the pipes and see the ball falling into the base, opening the circuit again and turning the bulb off.",
+      "description": "The Gravità table lamp requires physical interaction to turn on the light. Despite its unique functionality, Gravità offers a natural user experience that goes beyond mere illumination. When off, a shiny metal ball is visible on its base. The upper part resembles an inverted cone, inviting the user to throw the ball inside. This action closes a low voltage circuit, turning on the light. To turn it off, lift the pipes to let the ball fall back onto the base, opening the circuit and extinguishing the light.",
       "categoryId": 1,
       "images": [
         "https://assets.projectwoop.it/gravita/ON-1.jpg",
@@ -418,6 +418,69 @@
       "name": "Overzoom UI",
       "description": "Every great brand that wants to stand out needs an impactful visual coherence. Big brands put a lot of efforts into making their User Interfaces well recognizable, familiar and efficient. For Overzoom, I’ve designed a UI kit that shapes the future of the company products, improving by a lot the quality of the softwares developed.",
       "categoryId": 3,
+      "images": [
+        "https://assets.projectwoop.it/overzoom-ui/overzoom-ui-1.jpg",
+        "https://assets.projectwoop.it/overzoom-ui/overzoom-ui-2.jpg",
+        "https://assets.projectwoop.it/overzoom-ui/overzoom-ui-3.jpg",
+        "https://assets.projectwoop.it/overzoom-ui/overzoom-ui-4.jpg"
+      ]
+    },
+
+    {
+      "id": 16,
+      "name": "SottoSopra app",
+      "description": "Working at Overzoom, I’ve made the app responsible to keep track of the work in progress railway burial of my city, Andria.\nI’ve made firstly the UI/UX project, curing every visual aspect, then developed the app itself using Flutter.",
+      "categoryId": 2,
+      "images": [
+        "https://assets.projectwoop.it/sottosopra/sottosopra1.jpg",
+        "https://assets.projectwoop.it/sottosopra/sottosopra-2.jpg",
+        "https://assets.projectwoop.it/sottosopra/sottosopra-3.jpg",
+        "https://assets.projectwoop.it/sottosopra/sottosopra-4.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Orange Charge app",
+      "description": "Orange Charge is an app thanks to which you can charge your electric vehicle via the Orange Network. Like every project done in Overzoom, I’ve first made the UX/UI project then developed the whole app. For this project I’ve also done the back-end responsible of communicating with the chargeboxes in NodeJS.",
+      "categoryId": 2,
+      "images": [
+        "https://assets.projectwoop.it/orange/orange-1.jpg",
+        "https://assets.projectwoop.it/orange/orange-2.jpg",
+        "https://assets.projectwoop.it/orange/orange-3.jpg",
+        "https://assets.projectwoop.it/orange/orange-4.jpg"
+
+      ]
+    },
+    {
+      "id": 18,
+      "name": "BachecApp & FollowApp",
+      "description": "Two really complete projects done in Overzoom, in which I’ve cured the whole branding and design language, then made the UX/UI part for both the mobile app and the desktop back-office and finally developed mobile app in Flutter, back-end in NodeJS and back-office in ReactJS.",
+      "categoryId": 2,
+      "images": [
+        "https://assets.projectwoop.it/bachecapp-followapp/bachecapp-followapp-1.jpg",
+        "https://assets.projectwoop.it/bachecapp-followapp/bachecapp-followapp-2.jpg",
+        "https://assets.projectwoop.it/bachecapp-followapp/bachecapp-followapp-3.jpg",
+        "https://assets.projectwoop.it/bachecapp-followapp/bachecapp-followapp-4.jpg"
+
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Reraise app",
+      "description": "App made for a professional poker room based in Barletta. In Overzoom, I’ve been able to design and develop an app capable of register new users and make them do all they need in the poker room via their personal QR-Code. \nThe app also shows personal infos like personal points, tickets and the jackpot. It also features a live section where you can watch on-going tournaments and their real-time infos.",
+      "categoryId": 2,
+      "images": [
+        "https://assets.projectwoop.it/reraise/reraise-1.jpg",
+        "https://assets.projectwoop.it/reraise/reraise-2.jpg",
+        "https://assets.projectwoop.it/reraise/reraise-3.jpg",
+        "https://assets.projectwoop.it/reraise/reraise-4.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Overzoom UI",
+      "description": "Every great brand that wants to stand out needs an impactful visual coherence. Big brands put a lot of efforts into making their User Interfaces well recognizable, familiar and efficient. For Overzoom, I’ve designed a UI kit that shapes the future of the company products, improving by a lot the quality of the softwares developed.",
+      "categoryId": 2,
       "images": [
         "https://assets.projectwoop.it/overzoom-ui/overzoom-ui-1.jpg",
         "https://assets.projectwoop.it/overzoom-ui/overzoom-ui-2.jpg",
