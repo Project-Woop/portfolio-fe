@@ -7,28 +7,28 @@
         {
           "id": 1,
           "name": "Industrial Design",
-          "description": "I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. ",
+          "description": "I firmly believe in the principle of \"form follows function\" guiding my pursuit of aesthetic solutions that never compromise functionality. However, I never overlook the importance of the emotional component that makes us human. Each of my projects aims to create an emotional connection between the user and the product, enhancing the everyday experience through intuitive and engaging design.\n\nMy experience has enabled me to develop a minimalist approach, where every element is essential and contributes to a harmonious and functional whole. This balance between aesthetics, functionality, and emotion defines my work and my design philosophy.",
           "image": "https://source.unsplash.com/random/?project",
           "size": "large"
         },
         {
           "id": 2,
           "name": "UX Design",
-          "description": "I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. ",
+          "description": "My journey into user experience design (UX Design) began with the realization that every interaction between a user and a product should be intuitive and satisfying. I have spent years studying and applying best practices in user research, interface design, information architecture, and prototyping. My goal has always been to create digital and physical products that not only meet the needs of end users but also significantly enhance their overall experience. Each project has been an opportunity to refine my skills and contribute to making the world a bit more user-friendly.",
           "image": "https://source.unsplash.com/random/?application",
           "size": "large"
         },
         {
           "id": 3,
           "name": "Development",
-          "description": "I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. ",
+          "description": "My passion for software development has led me to explore and master various programming languages and tools. I have had the opportunity to work on projects ranging from web applications to mobile and desktop applications. Each phase of development, from requirement definition to coding, testing, and debugging, has allowed me to grow professionally.",
           "image": "https://source.unsplash.com/random/?development",
           "size": "large"
         },
         {
           "id": 4,
           "name": "Teaching",
-          "description": "I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. ",
+          "description": "Teaching has always been a fundamental part of my career. I have had the privilege of sharing my knowledge and skills with students of all ages, in both formal and informal settings. I have conducted corporate training courses on HTML, CSS, Angular, Postgres, Java, Spring, and web accessibility, and I have also had the opportunity to teach design to children at SOUx Bitonto. Each lesson has been an opportunity to engage students and facilitate active learning using a variety of teaching methodologies. My goal has always been not only to impart theoretical knowledge but also to develop students' critical and practical skills, preparing them for their future professional and personal lives.",
           "image": "https://source.unsplash.com/random/?teaching",
           "size": "large"
         }
@@ -177,28 +177,28 @@
     {
       "id": 1,
       "name": "Industrial Design",
-      "description": "I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. ",
+      "description": "I firmly believe in the principle of \"form follows function\" guiding my pursuit of aesthetic solutions that never compromise functionality. However, I never overlook the importance of the emotional component that makes us human. Each of my projects aims to create an emotional connection between the user and the product, enhancing the everyday experience through intuitive and engaging design.\n\nMy experience has enabled me to develop a minimalist approach, where every element is essential and contributes to a harmonious and functional whole. This balance between aesthetics, functionality, and emotion defines my work and my design philosophy.",
       "image": "https://source.unsplash.com/random/?project",
       "size": "large"
     },
     {
       "id": 2,
       "name": "UX Design",
-      "description": "I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. ",
+      "description": "My journey into user experience design (UX Design) began with the realization that every interaction between a user and a product should be intuitive and satisfying. I have spent years studying and applying best practices in user research, interface design, information architecture, and prototyping. My goal has always been to create digital and physical products that not only meet the needs of end users but also significantly enhance their overall experience. Each project has been an opportunity to refine my skills and contribute to making the world a bit more user-friendly.",
       "image": "https://source.unsplash.com/random/?application",
       "size": "large"
     },
     {
       "id": 3,
       "name": "Development",
-      "description": "I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. ",
+      "description": "My passion for software development has led me to explore and master various programming languages and tools. I have had the opportunity to work on projects ranging from web applications to mobile and desktop applications. Each phase of development, from requirement definition to coding, testing, and debugging, has allowed me to grow professionally.",
       "image": "https://source.unsplash.com/random/?development",
       "size": "large"
     },
     {
       "id": 4,
       "name": "Teaching",
-      "description": "I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. I'm very good at this shit. ",
+      "description": "Teaching has always been a fundamental part of my career. I have had the privilege of sharing my knowledge and skills with students of all ages, in both formal and informal settings. I have conducted corporate training courses on HTML, CSS, Angular, Postgres, Java, Spring, and web accessibility, and I have also had the opportunity to teach design to children at SOUx Bitonto. Each lesson has been an opportunity to engage students and facilitate active learning using a variety of teaching methodologies. My goal has always been not only to impart theoretical knowledge but also to develop students' critical and practical skills, preparing them for their future professional and personal lives.",
       "image": "https://source.unsplash.com/random/?teaching",
       "size": "large"
     }
