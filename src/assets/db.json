@@ -8,28 +8,28 @@
           "id": 1,
           "name": "Industrial Design",
           "description": "I firmly believe in the principle of \"form follows function\" guiding my pursuit of aesthetic solutions that never compromise functionality. However, I never overlook the importance of the emotional component that makes us human. Each of my projects aims to create an emotional connection between the user and the product, enhancing the everyday experience through intuitive and engaging design.\n\nMy experience has enabled me to develop a minimalist approach, where every element is essential and contributes to a harmonious and functional whole. This balance between aesthetics, functionality, and emotion defines my work and my design philosophy.",
-          "image": "https://source.unsplash.com/random/?project",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "large"
         },
         {
           "id": 2,
           "name": "UX Design",
           "description": "My journey into user experience design (UX Design) began with the realization that every interaction between a user and a product should be intuitive and satisfying. I have spent years studying and applying best practices in user research, interface design, information architecture, and prototyping. My goal has always been to create digital and physical products that not only meet the needs of end users but also significantly enhance their overall experience. Each project has been an opportunity to refine my skills and contribute to making the world a bit more user-friendly.",
-          "image": "https://source.unsplash.com/random/?application",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "large"
         },
         {
           "id": 3,
           "name": "Development",
           "description": "My passion for software development has led me to explore and master various programming languages and tools. I have had the opportunity to work on projects ranging from web applications to mobile and desktop applications. Each phase of development, from requirement definition to coding, testing, and debugging, has allowed me to grow professionally.",
-          "image": "https://source.unsplash.com/random/?development",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "large"
         },
         {
           "id": 4,
           "name": "Teaching",
           "description": "Teaching has always been a fundamental part of my career. I have had the privilege of sharing my knowledge and skills with students of all ages, in both formal and informal settings. I have conducted corporate training courses on HTML, CSS, Angular, Postgres, Java, Spring, and web accessibility, and I have also had the opportunity to teach design to children at SOUx Bitonto. Each lesson has been an opportunity to engage students and facilitate active learning using a variety of teaching methodologies. My goal has always been not only to impart theoretical knowledge but also to develop students' critical and practical skills, preparing them for their future professional and personal lives.",
-          "image": "https://source.unsplash.com/random/?teaching",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "large"
         }
       ]
@@ -41,73 +41,73 @@
         {
           "id": 1,
           "name": "Webstorm",
-          "image": "https://source.unsplash.com/random/?webstorm",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "small"
         },
         {
           "id": 2,
           "name": "IntelliJ",
-          "image": "https://source.unsplash.com/random/?intellij",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "small"
         },
         {
           "id": 3,
           "name": "Fusion 360",
-          "image": "https://source.unsplash.com/random/?inventor",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "large"
         },
         {
           "id": 4,
           "name": "Android Studio",
-          "image": "https://source.unsplash.com/random/?android",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "large"
         },
         {
           "id": 5,
           "name": "Photoshop",
-          "image": "https://source.unsplash.com/random/?photoshop",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "small"
         },
         {
           "id": 6,
           "name": "Illustrator",
-          "image": "https://source.unsplash.com/random/?illustrator",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "small"
         },
         {
           "id": 7,
           "name": "Figma",
-          "image": "https://source.unsplash.com/random/?figma",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "small"
         },
         {
           "id": 8,
           "name": "Adobe XD",
-          "image": "https://source.unsplash.com/random/?xd",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "small"
         },
         {
           "id": 9,
           "name": "Keyshot",
-          "image": "https://source.unsplash.com/random/?render",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "small"
         },
         {
           "id": 10,
           "name": "InDesign",
-          "image": "https://source.unsplash.com/random/?indesign",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "small"
         },
         {
           "id": 11,
           "name": "Blender",
-          "image": "https://source.unsplash.com/random/?blender",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "small"
         },
         {
           "id": 12,
           "name": "Premiere Pro",
-          "image": "https://source.unsplash.com/random/?videoediting",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "small"
         }
       ]
@@ -119,55 +119,55 @@
         {
           "id": 1,
           "name": "HTML",
-          "image": "https://source.unsplash.com/random/?html",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "small"
         },
         {
           "id": 2,
           "name": "JavaScript",
-          "image": "https://source.unsplash.com/random/?javascript",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "small"
         },
         {
           "id": 3,
           "name": "CSS",
-          "image": "https://source.unsplash.com/random/?css",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "small"
         },
         {
           "id": 4,
           "name": "TypeScript",
-          "image": "https://source.unsplash.com/random/?typescript",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "large"
         },
         {
           "id": 5,
           "name": "Flutter",
-          "image": "https://source.unsplash.com/random/?flutter",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "large"
         },
         {
           "id": 6,
           "name": "NestJS",
-          "image": "https://source.unsplash.com/random/?server",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "small"
         },
         {
           "id": 7,
           "name": "Angular",
-          "image": "https://source.unsplash.com/random/?angular",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "small"
         },
         {
           "id": 8,
           "name": "Spring",
-          "image": "https://source.unsplash.com/random/?spring",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "large"
         },
         {
           "id": 9,
           "name": "React",
-          "image": "https://source.unsplash.com/random/?react",
+          "image": "https://assets.projectwoop.it/placeholder.png",
           "size": "small"
         }
       ]
@@ -178,28 +178,28 @@
       "id": 1,
       "name": "Industrial Design",
       "description": "I firmly believe in the principle of \"form follows function\" guiding my pursuit of aesthetic solutions that never compromise functionality. However, I never overlook the importance of the emotional component that makes us human. Each of my projects aims to create an emotional connection between the user and the product, enhancing the everyday experience through intuitive and engaging design.\n\nMy experience has enabled me to develop a minimalist approach, where every element is essential and contributes to a harmonious and functional whole. This balance between aesthetics, functionality, and emotion defines my work and my design philosophy.",
-      "image": "https://source.unsplash.com/random/?project",
+      "image": "https://assets.projectwoop.it/placeholder.png",
       "size": "large"
     },
     {
       "id": 2,
       "name": "UX Design",
       "description": "My journey into user experience design (UX Design) began with the realization that every interaction between a user and a product should be intuitive and satisfying. I have spent years studying and applying best practices in user research, interface design, information architecture, and prototyping. My goal has always been to create digital and physical products that not only meet the needs of end users but also significantly enhance their overall experience. Each project has been an opportunity to refine my skills and contribute to making the world a bit more user-friendly.",
-      "image": "https://source.unsplash.com/random/?application",
+      "image": "https://assets.projectwoop.it/placeholder.png",
       "size": "large"
     },
     {
       "id": 3,
       "name": "Development",
       "description": "My passion for software development has led me to explore and master various programming languages and tools. I have had the opportunity to work on projects ranging from web applications to mobile and desktop applications. Each phase of development, from requirement definition to coding, testing, and debugging, has allowed me to grow professionally.",
-      "image": "https://source.unsplash.com/random/?development",
+      "image": "https://assets.projectwoop.it/placeholder.png",
       "size": "large"
     },
     {
       "id": 4,
       "name": "Teaching",
       "description": "Teaching has always been a fundamental part of my career. I have had the privilege of sharing my knowledge and skills with students of all ages, in both formal and informal settings. I have conducted corporate training courses on HTML, CSS, Angular, Postgres, Java, Spring, and web accessibility, and I have also had the opportunity to teach design to children at SOUx Bitonto. Each lesson has been an opportunity to engage students and facilitate active learning using a variety of teaching methodologies. My goal has always been not only to impart theoretical knowledge but also to develop students' critical and practical skills, preparing them for their future professional and personal lives.",
-      "image": "https://source.unsplash.com/random/?teaching",
+      "image": "https://assets.projectwoop.it/placeholder.png",
       "size": "large"
     }
   ],
