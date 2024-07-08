@@ -10,7 +10,7 @@ import {Router, RouterLink} from "@angular/router";
   template: `
       <div
               class="box woop-shadow dark:woop-shadow-dark hover:woop-shadow-xl hover:dark:woop-shadow-xl-dark relative rounded-md xl:h-[30em] md:h-80 h-64 bg-gray-500 bg-cover bg-no-repeat bg-center cursor-pointer" [style.background-image]="'url(' + project.images[0] + ')'"
-              [routerLink]="['/project', project.id]" (keydown)="onKeydown($event)" tabindex="3"
+              [routerLink]="['/project', project.id]" (keydown)="onKeydown($event)" tabindex="0"
       >
           <div class="absolute bottom-0 w-full px-4 py-2 backdrop-blur backdrop-brightness-50 text-white rounded-b-md">
               {{ project.name }}

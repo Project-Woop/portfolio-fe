@@ -10,7 +10,7 @@ import { FooterComponent } from "./components/footer/footer.component";
   template: `
     <div class="h-full w-screen bg-main dark:bg-dark overflow-hidden relative">
         <div class="relative">
-            <div class="back-icon z-20 absolute ml-20 mt-20" *ngIf="!isHomePage()" tabindex="1" (click)="goBack()" (keydown)="onBackKeydown($event)" aria-label="Back button">
+            <div class="back-icon z-20 absolute ml-20 mt-20" *ngIf="!isHomePage()" tabindex="0" (click)="goBack()" (keydown)="onBackKeydown($event)" aria-label="Back button">
                 <span class="material-symbols-rounded" style="font-size: 4em">
                     chevron_left
                 </span>
