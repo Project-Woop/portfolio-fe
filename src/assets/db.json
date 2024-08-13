@@ -41,73 +41,73 @@
         {
           "id": 1,
           "name": "Webstorm",
-          "image": "https://assets.projectwoop.it/placeholder.png",
+          "image": "https://assets.projectwoop.it/software/webstorm.png",
           "size": "small"
         },
         {
           "id": 2,
           "name": "IntelliJ",
-          "image": "https://assets.projectwoop.it/placeholder.png",
+          "image": "https://assets.projectwoop.it/software/intellij.png",
           "size": "small"
         },
         {
           "id": 3,
           "name": "Fusion 360",
-          "image": "https://assets.projectwoop.it/placeholder.png",
+          "image": "https://assets.projectwoop.it/software/fusion360.png",
           "size": "large"
         },
         {
           "id": 4,
           "name": "Android Studio",
-          "image": "https://assets.projectwoop.it/placeholder.png",
+          "image": "https://assets.projectwoop.it/software/android-studio.png",
           "size": "large"
         },
         {
           "id": 5,
           "name": "Photoshop",
-          "image": "https://assets.projectwoop.it/placeholder.png",
+          "image": "https://assets.projectwoop.it/software/photoshop.png",
           "size": "small"
         },
         {
           "id": 6,
           "name": "Illustrator",
-          "image": "https://assets.projectwoop.it/placeholder.png",
+          "image": "https://assets.projectwoop.it/software/illustrator.png",
           "size": "small"
         },
         {
           "id": 7,
           "name": "Figma",
-          "image": "https://assets.projectwoop.it/placeholder.png",
+          "image": "https://assets.projectwoop.it/software/figma.png",
           "size": "small"
         },
         {
           "id": 8,
           "name": "Adobe XD",
-          "image": "https://assets.projectwoop.it/placeholder.png",
+          "image": "https://assets.projectwoop.it/software/xd.png",
           "size": "small"
         },
         {
           "id": 9,
           "name": "Keyshot",
-          "image": "https://assets.projectwoop.it/placeholder.png",
+          "image": "https://assets.projectwoop.it/software/keyshot.png",
           "size": "small"
         },
         {
           "id": 10,
           "name": "InDesign",
-          "image": "https://assets.projectwoop.it/placeholder.png",
+          "image": "https://assets.projectwoop.it/software/indesign.png",
           "size": "small"
         },
         {
           "id": 11,
           "name": "Blender",
-          "image": "https://assets.projectwoop.it/placeholder.png",
+          "image": "https://assets.projectwoop.it/software/blender.png",
           "size": "small"
         },
         {
           "id": 12,
           "name": "Premiere Pro",
-          "image": "https://assets.projectwoop.it/placeholder.png",
+          "image": "https://assets.projectwoop.it/software/premiere.png",
           "size": "small"
         }
       ]
