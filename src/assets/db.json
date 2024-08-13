@@ -119,55 +119,55 @@
         {
           "id": 1,
           "name": "HTML",
-          "image": "https://assets.projectwoop.it/placeholder.png",
+          "image": "https://assets.projectwoop.it/technologies/html.png",
           "size": "small"
         },
         {
           "id": 2,
           "name": "JavaScript",
-          "image": "https://assets.projectwoop.it/placeholder.png",
+          "image": "https://assets.projectwoop.it/technologies/javascript.png",
           "size": "small"
         },
         {
           "id": 3,
           "name": "CSS",
-          "image": "https://assets.projectwoop.it/placeholder.png",
+          "image": "https://assets.projectwoop.it/technologies/css.png",
           "size": "small"
         },
         {
           "id": 4,
           "name": "TypeScript",
-          "image": "https://assets.projectwoop.it/placeholder.png",
+          "image": "https://assets.projectwoop.it/technologies/typescript.png",
           "size": "large"
         },
         {
           "id": 5,
           "name": "Flutter",
-          "image": "https://assets.projectwoop.it/placeholder.png",
+          "image": "https://assets.projectwoop.it/technologies/flutter.png",
           "size": "large"
         },
         {
           "id": 6,
           "name": "NestJS",
-          "image": "https://assets.projectwoop.it/placeholder.png",
+          "image": "https://assets.projectwoop.it/technologies/nestjs.png",
           "size": "small"
         },
         {
           "id": 7,
           "name": "Angular",
-          "image": "https://assets.projectwoop.it/placeholder.png",
+          "image": "https://assets.projectwoop.it/technologies/angular.png",
           "size": "small"
         },
         {
           "id": 8,
           "name": "Spring",
-          "image": "https://assets.projectwoop.it/placeholder.png",
+          "image": "https://assets.projectwoop.it/technologies/spring.png",
           "size": "large"
         },
         {
           "id": 9,
           "name": "React",
-          "image": "https://assets.projectwoop.it/placeholder.png",
+          "image": "https://assets.projectwoop.it/technologies/react.png",
           "size": "small"
         }
       ]
