@@ -41,73 +41,73 @@
         {
           "id": 1,
           "name": "Webstorm",
-          "image": "https://assets.projectwoop.it/software/webstorm.png",
+          "image": "https://assets.projectwoop.it/homepage/software/webstorm.png",
           "size": "small"
         },
         {
           "id": 2,
           "name": "IntelliJ",
-          "image": "https://assets.projectwoop.it/software/intellij.png",
+          "image": "https://assets.projectwoop.it/homepage/software/intellij.png",
           "size": "small"
         },
         {
           "id": 3,
           "name": "Fusion 360",
-          "image": "https://assets.projectwoop.it/software/fusion360.png",
+          "image": "https://assets.projectwoop.it/homepage/software/fusion360.png",
           "size": "large"
         },
         {
           "id": 4,
           "name": "Android Studio",
-          "image": "https://assets.projectwoop.it/software/android-studio.png",
+          "image": "https://assets.projectwoop.it/homepage/software/android-studio.png",
           "size": "large"
         },
         {
           "id": 5,
           "name": "Photoshop",
-          "image": "https://assets.projectwoop.it/software/photoshop.png",
+          "image": "https://assets.projectwoop.it/homepage/software/photoshop.png",
           "size": "small"
         },
         {
           "id": 6,
           "name": "Illustrator",
-          "image": "https://assets.projectwoop.it/software/illustrator.png",
+          "image": "https://assets.projectwoop.it/homepage/software/illustrator.png",
           "size": "small"
         },
         {
           "id": 7,
           "name": "Figma",
-          "image": "https://assets.projectwoop.it/software/figma.png",
+          "image": "https://assets.projectwoop.it/homepage/software/figma.png",
           "size": "small"
         },
         {
           "id": 8,
           "name": "Adobe XD",
-          "image": "https://assets.projectwoop.it/software/xd.png",
+          "image": "https://assets.projectwoop.it/homepage/software/xd.png",
           "size": "small"
         },
         {
           "id": 9,
           "name": "Keyshot",
-          "image": "https://assets.projectwoop.it/software/keyshot.png",
+          "image": "https://assets.projectwoop.it/homepage/software/keyshot.png",
           "size": "small"
         },
         {
           "id": 10,
           "name": "InDesign",
-          "image": "https://assets.projectwoop.it/software/indesign.png",
+          "image": "https://assets.projectwoop.it/homepage/software/indesign.png",
           "size": "small"
         },
         {
           "id": 11,
           "name": "Blender",
-          "image": "https://assets.projectwoop.it/software/blender.png",
+          "image": "https://assets.projectwoop.it/homepage/software/blender.png",
           "size": "small"
         },
         {
           "id": 12,
           "name": "Premiere Pro",
-          "image": "https://assets.projectwoop.it/software/premiere.png",
+          "image": "https://assets.projectwoop.it/homepage/software/premiere.png",
           "size": "small"
         }
       ]
@@ -119,55 +119,55 @@
         {
           "id": 1,
           "name": "HTML",
-          "image": "https://assets.projectwoop.it/technologies/html.png",
+          "image": "https://assets.projectwoop.it/homepage/technologies/html.png",
           "size": "small"
         },
         {
           "id": 2,
           "name": "JavaScript",
-          "image": "https://assets.projectwoop.it/technologies/javascript.png",
+          "image": "https://assets.projectwoop.it/homepage/technologies/javascript.png",
           "size": "small"
         },
         {
           "id": 3,
           "name": "CSS",
-          "image": "https://assets.projectwoop.it/technologies/css.png",
+          "image": "https://assets.projectwoop.it/homepage/technologies/css.png",
           "size": "small"
         },
         {
           "id": 4,
           "name": "TypeScript",
-          "image": "https://assets.projectwoop.it/technologies/typescript.png",
+          "image": "https://assets.projectwoop.it/homepage/technologies/typescript.png",
           "size": "large"
         },
         {
           "id": 5,
           "name": "Flutter",
-          "image": "https://assets.projectwoop.it/technologies/flutter.png",
+          "image": "https://assets.projectwoop.it/homepage/technologies/flutter.png",
           "size": "large"
         },
         {
           "id": 6,
           "name": "NestJS",
-          "image": "https://assets.projectwoop.it/technologies/nestjs.png",
+          "image": "https://assets.projectwoop.it/homepage/technologies/nestjs.png",
           "size": "small"
         },
         {
           "id": 7,
           "name": "Angular",
-          "image": "https://assets.projectwoop.it/technologies/angular.png",
+          "image": "https://assets.projectwoop.it/homepage/technologies/angular.png",
           "size": "small"
         },
         {
           "id": 8,
           "name": "Spring",
-          "image": "https://assets.projectwoop.it/technologies/spring.png",
+          "image": "https://assets.projectwoop.it/homepage/technologies/spring.png",
           "size": "large"
         },
         {
           "id": 9,
           "name": "React",
-          "image": "https://assets.projectwoop.it/technologies/react.png",
+          "image": "https://assets.projectwoop.it/homepage/technologies/react.png",
           "size": "small"
         }
       ]
