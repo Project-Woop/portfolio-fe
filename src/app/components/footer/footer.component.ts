@@ -9,11 +9,11 @@ import {RouterLink} from "@angular/router";
   template: `
       <div class="footer-grid sm:px-20 px-8 py-2 w-screen">
           <div class="hidden sm:flex flex-row justify-start items-center pointer-events-none">
-              © Project Woop - 2024
+              © project.woop - {{ currentYear }}
           </div>
           <div class="flex flex-col gap-1 justify-center items-center" [routerLink]="['/home']" tabindex="0">
               <img src="assets/images/svg/logo.svg" class="logo pointer-events-none svg-primary dark:svg-primary-dark" alt="Woop logo">
-              <div class="hidden text-xl sm:block pointer-events-none">Woop</div>
+              <div class="hidden text-xl sm:block pointer-events-none">woop</div>
           </div>
           <div class="flex flex-row gap-4 justify-end items-center">
               <a href="https://www.instagram.com/project.woop/" aria-label="project woop instagram profile">
@@ -64,5 +64,5 @@ import {RouterLink} from "@angular/router";
   `]
 })
 export class FooterComponent {
-
+  public currentYear: number = new Date().getFullYear();
 }
