@@ -14,13 +14,13 @@ import { HttpClient } from "@angular/common/http";
   imports: [CommonModule, ContainerComponent, HorizontalScrollDirective, RouterLink, ProjectBoxComponent],
   template: `
     <div class="h-screen-responsive overflow-y-hidden flex flex-col justify-center gap-2 px-20" appHorizontalScroll>
-        <div class="sticky ml-4 text-2xl">
+        <div class="sticky ml-4 text-2xl font-bold">
             {{ category?.name }}
         </div>
         <div class="flex flex-row gap-2 items-center">
-            <div class="aspect-[2] columns-2 xl:columns-1 xl:aspect-square xl:h-[30em] md:h-80 h-64">
+            <p class="aspect-[2] columns-2 xl:columns-1 xl:aspect-square xl:h-[30em] md:h-80 h-64" style="font-family: Poppins">
                 {{ category?.description }}
-            </div>
+            </p>
             <ng-container *ngFor="let project of projects; let i = index">
                 <app-project-box [project]="project"></app-project-box>
             </ng-container>

@@ -1,3 +1,13 @@
+@import url('../assets/styles/chillax.css');
+
+div {
+  font-family: Chillax-Regular;
+}
+
+p {
+  font-family: 'Poppins';
+}
+
 .path1 {
   animation: move-1 infinite linear;
   animation-direction: alternate-reverse;

@@ -13,11 +13,11 @@ import {ProjectBoxComponent} from "../../components/project/project-box.componen
   imports: [CommonModule, HorizontalScrollDirective, ProjectBoxComponent],
   template: `
       <div class="h-screen-responsive overflow-y-hidden flex flex-col justify-center gap-2 px-20" appHorizontalScroll>
-          <h2 class="sticky ml-4 text-2xl">
+          <h2 class="sticky ml-4 text-2xl font-bold">
               {{ project.name }}
           </h2>
           <div class="flex flex-row gap-2 items-center">
-              <p class="aspect-[2] columns-2 xl:columns-1 xl:aspect-square xl:h-[30em] md:h-80 h-64">
+              <p class="aspect-[2] columns-2 xl:columns-1 xl:aspect-square xl:h-[30em] md:h-80 h-64" style="font-family: Poppins">
                   {{ project.description }}
               </p>
               <ng-container *ngFor="let image of project.images; let i = index">
