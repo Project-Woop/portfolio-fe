@@ -10,8 +10,9 @@ import {Router, RouterLink} from "@angular/router";
   template: `
       <div
               class="box woop-shadow dark:woop-shadow-dark hover:woop-shadow-xl hover:dark:woop-shadow-xl-dark relative rounded-md xl:h-60 md:h-40 h-32 bg-gray-500 bg-cover bg-no-repeat bg-center cursor-pointer {{category.size}}" [style.background-image]="'url(' + category.image + ')'"
-              [routerLink]="['/category', category.id]" (keydown)="onKeydown($event)" tabindex="0"
+              [routerLink]="sectionId === 1 ? ['/category', category.id] : null" (keydown)="onKeydown($event)" tabindex="0" [ngStyle]="sectionId != 1 ? { 'pointer-events': 'none' } : {}"
       >
+<!--              [routerLink]="['/category', category.id]" (keydown)="onKeydown($event)" tabindex="0"-->
           <div class="category-name absolute bottom-0 w-full px-4 py-2 backdrop-blur backdrop-brightness-50 text-white rounded-b-md">
               {{ category.name }}
           </div>
@@ -49,11 +50,12 @@ import {Router, RouterLink} from "@angular/router";
 })
 export class BoxComponent {
   @Input() category: Category = {id: 0, image: "", name: "", size: ""};
+  @Input() sectionId: number | undefined;
 
   constructor(private router: Router) {}
 
   onKeydown(event: KeyboardEvent) {
-    if (event.key === 'Enter') {
+    if (event.key === 'Enter' && this.sectionId === 1) {
       this.router.navigate(['/category', this.category.id]);
     }
   }
