@@ -13,7 +13,7 @@
         },
         {
           "id": 2,
-          "name": "UX Design",
+          "name": "UX/UI Design",
           "description": "My journey into user experience design (UX Design) began with the realization that every interaction between a user and a product should be intuitive and satisfying. I have spent years studying and applying best practices in user research, interface design, information architecture, and prototyping. My goal has always been to create digital and physical products that not only meet the needs of end users but also significantly enhance their overall experience. Each project has been an opportunity to refine my skills and contribute to making the world a bit more user-friendly.",
           "image": "http://assets.projectwoop.it/homepage/fields/ux-design.png",
           "size": "large"
@@ -27,7 +27,7 @@
         },
         {
           "id": 4,
-          "name": "Teaching",
+          "name": "Training",
           "description": "Teaching has always been a fundamental part of my career. I have had the privilege of sharing my knowledge and skills with students of all ages, in both formal and informal settings. I have conducted corporate training courses on HTML, CSS, Angular, Postgres, Java, Spring, and web accessibility, and I have also had the opportunity to teach design to children at SOUx Bitonto. Each lesson has been an opportunity to engage students and facilitate active learning using a variety of teaching methodologies. My goal has always been not only to impart theoretical knowledge but also to develop students' critical and practical skills, preparing them for their future professional and personal lives.",
           "image": "https://assets.projectwoop.it/homepage/fields/teaching.png",
           "size": "large"
@@ -78,7 +78,7 @@
           "id": 7,
           "name": "Figma",
           "image": "https://assets.projectwoop.it/homepage/software/figma.png",
-          "size": "small"
+          "size": "large"
         },
         {
           "id": 8,
@@ -108,6 +108,12 @@
           "id": 12,
           "name": "Premiere Pro",
           "image": "https://assets.projectwoop.it/homepage/software/premiere.png",
+          "size": "small"
+        },
+        {
+          "id": 13,
+          "name": "Solidworks",
+          "image": "https://assets.projectwoop.it/homepage/software/solidworks.png",
           "size": "small"
         }
       ]
@@ -169,6 +175,18 @@
           "name": "React",
           "image": "https://assets.projectwoop.it/homepage/technologies/react.png",
           "size": "small"
+        },
+        {
+          "id": 8,
+          "name": "Swift",
+          "image": "https://assets.projectwoop.it/homepage/technologies/swift.png",
+          "size": "small"
+        },
+        {
+          "id": 9,
+          "name": "Kotlin",
+          "image": "https://assets.projectwoop.it/homepage/technologies/kotlin.png",
+          "size": "small"
         }
       ]
     }
@@ -205,7 +223,68 @@
   ],
   "projects": [
     {
-      "id": 0,
+      "id": 1,
+      "name": "SPAZIOTEMPO",
+      "description": "The collection is composed of four elements: a chair, a table, a clock, and a lighting system. Anima, Bubbly, Relativo, and Breath come together to explore the illusions of the beliefs that live with us, playing with space and time and showcasing the reality and fiction of the dimensions in which we exist. Anima is inspired by the classic seats of modern design, distorting their reality through transparent elements that create a contrast of spaces. Bubbly draws inspiration from abstractionism, with a bubble enveloping the metal top of the table, communicating lightness and then a sense of weight. Relativo is a clock with hands of equal length that move uncoordinatedly, suggesting the non-existence of time as a measurable concept. Breath represents the movement produced by the lighting system, with a light bulb floating inside a transparent shell, creating plays of shadows and reflections that emphasize the characteristics of the space.",
+      "categoryId": 1,
+      "images": [
+        "https://assets.projectwoop.it/spaziotempo/spaziotempo.jpg",
+        "https://assets.projectwoop.it/spaziotempo/anima1.jpg",
+        "https://assets.projectwoop.it/spaziotempo/anima2.jpg",
+        "https://assets.projectwoop.it/spaziotempo/anima3.jpg",
+        "https://assets.projectwoop.it/spaziotempo/anima4.jpg",
+        "https://assets.projectwoop.it/spaziotempo/anima5.jpg",
+        "https://assets.projectwoop.it/spaziotempo/anima6.jpg",
+        "https://assets.projectwoop.it/spaziotempo/bubbly1.jpg",
+        "https://assets.projectwoop.it/spaziotempo/bubbly3.jpg",
+        "https://assets.projectwoop.it/spaziotempo/bubbly4.jpg",
+        "https://assets.projectwoop.it/spaziotempo/bubbly5.jpg",
+        "https://assets.projectwoop.it/spaziotempo/bubbly6.jpg",
+        "https://assets.projectwoop.it/spaziotempo/relativo.jpg",
+        "https://assets.projectwoop.it/spaziotempo/breath1.jpg",
+        "https://assets.projectwoop.it/spaziotempo/breath2.jpg",
+        "https://assets.projectwoop.it/spaziotempo/breath3.jpg",
+        "https://assets.projectwoop.it/spaziotempo/breath4.jpg",
+        "https://assets.projectwoop.it/spaziotempo/breath5.jpg",
+        "https://assets.projectwoop.it/spaziotempo/breath6.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Zefiro",
+      "description": "This project, developed in a team of five during my first year of the MSc in Design & Engineering at Politecnico di Milano, challenged us to design a next-generation domestic steam cleaner. The brief required a holistic approach, pushing us to integrate high reconfigurability for both horizontal and vertical surfaces with a deep focus on user experience and robust product engineering.\n\nOur design process prioritized intuitive interaction and convenience. We engineered a system capable of single-handed accessory changes and integrated \"phase-related feedback\" to clearly communicate the machine's status. We also focused heavily on ergonomics, carefully balancing the weight for comfortable prolonged use, and developing a compact, convenient storage solution for the unit and its versatile accessories.\n\nThe final concept was a truly versatile cleaner defined by its user-centric features and a seamless, high-quality finish, which we achieved through a design-for-assembly approach with hidden screws. This project was a crucial practical experience for me in product engineering, requiring us to solve the mechanical challenges of a modular system while ensuring its overall comfort and usability.",
+      "categoryId": 1,
+      "images": [
+        "https://assets.projectwoop.it/zefiro/zefiro-0.gif",
+        "https://assets.projectwoop.it/zefiro/zefiro-7.gif",
+        "https://assets.projectwoop.it/zefiro/zefiro-2.gif",
+        "https://assets.projectwoop.it/zefiro/zefiro-3.gif",
+        "https://assets.projectwoop.it/zefiro/zefiro-4.gif",
+        "https://assets.projectwoop.it/zefiro/zefiro-5.gif",
+        "https://assets.projectwoop.it/zefiro/zefiro-1.gif"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Geneva",
+      "description": "Geneva is an academic project developed in a team of four during my first year of the MSc in Design & Engineering at Politecnico di Milano. This project was a foundational deep-dive into balancing user-centric design with technical requirements, providing me with my first hands-on experimentation in product engineering and material considerations.\n\nThe brief centered on a specific archetype: a passionate cook living in a large home. This user values the culinary process itself, requiring high precision and a wide array of accessories for complex recipes, rather than speed. While they often cook for one, the product also needed to be sophisticated and capable enough for occasional hosting.\n\nOur solution, \"Geneva,\" is a modular, high-precision hand blender system. We engineered it for ergonomic comfort during extended use and high-torque performance. The design focuses on a seamless, robust interface between the main body and its specialized accessories, transforming a simple appliance into a versatile culinary tool that supports our user's passion for precision cooking.",
+      "categoryId": 1,
+      "images": [
+        "https://assets.projectwoop.it/geneva/geneva-1.jpg",
+        "https://assets.projectwoop.it/geneva/geneva-2.jpg",
+        "https://assets.projectwoop.it/geneva/geneva-3.jpg",
+        "https://assets.projectwoop.it/geneva/geneva-4.jpg",
+        "https://assets.projectwoop.it/geneva/geneva-5.jpg",
+        "https://assets.projectwoop.it/geneva/geneva-6.jpg",
+        "https://assets.projectwoop.it/geneva/geneva-7.jpg",
+        "https://assets.projectwoop.it/geneva/geneva-8.jpg",
+        "https://assets.projectwoop.it/geneva/geneva-9.jpg",
+        "https://assets.projectwoop.it/geneva/geneva-10.jpg",
+        "https://assets.projectwoop.it/geneva/geneva-11.jpg"
+      ]
+    },
+    {
+      "id": 4,
       "name": "Utensilia",
       "description": "During my second year of the Bachelor's program in Industrial Design at the University of Bari, I participated in the \"Utensilia\" project. The objective was to analyze and redesign the tools used by a local artisan, Gino Macci, who crafts paper hot air balloons launched during patronal festivals in Capurso and surrounding areas as a divine tribute.\nWe developed several innovative tools to enhance his craft. \"Maccio\" is a tool designed to clean the dirty bristles of the brush used for decorations. \"Twistello\" is a brush equipped with an iris gear mechanism that allows the bristles to change density, thus adjusting precision. \"Simmetrica\" is a device capable of cutting the balloon panels by inputting only the balloon's height and the desired number of panels. \"Traccia\" is a metal tool that facilitates the creation of radial decorations. Lastly, \"WuitsAir\" is a device attached to the balloons that, upon detecting a certain altitude, opens valves to deflate the balloon for recovery.",
       "categoryId": 1,
@@ -260,133 +339,7 @@
       ]
     },
     {
-      "id": 1,
-      "name": "Project Woop - Branding",
-      "description": "Personal branding project. Its origin is connected to an years-long unconscious story, but its final form is a totally defined identity.\nThe logo is both simple and recognizable, working well in every occasion. The similarity to a human eye has made it possible to make it a 3D mascotte, and its simpleness can generate a lot of variations all equally loyal to the design language.\n The name is short and of impact. Woop is difficult to forget as a sound and implicitly makes you think about something future oriented, innovative.",
-      "categoryId": 4,
-      "images": [
-        "https://assets.projectwoop.it/woop/woop.jpg",
-        "https://assets.projectwoop.it/woop/woop-2.jpg",
-        "https://assets.projectwoop.it/woop/1.jpg",
-        "https://assets.projectwoop.it/woop/2.jpg",
-        "https://assets.projectwoop.it/woop/3.jpg",
-        "https://assets.projectwoop.it/woop/4.jpg",
-        "https://assets.projectwoop.it/woop/6.jpg",
-        "https://assets.projectwoop.it/woop/7.jpg"
-      ]
-    },
-    {
-      "id": 2,
-      "name": "SPAZIOTEMPO",
-      "description": "The collection is composed of four elements: a chair, a table, a clock, and a lighting system. Anima, Bubbly, Relativo, and Breath come together to explore the illusions of the beliefs that live with us, playing with space and time and showcasing the reality and fiction of the dimensions in which we exist. Anima is inspired by the classic seats of modern design, distorting their reality through transparent elements that create a contrast of spaces. Bubbly draws inspiration from abstractionism, with a bubble enveloping the metal top of the table, communicating lightness and then a sense of weight. Relativo is a clock with hands of equal length that move uncoordinatedly, suggesting the non-existence of time as a measurable concept. Breath represents the movement produced by the lighting system, with a light bulb floating inside a transparent shell, creating plays of shadows and reflections that emphasize the characteristics of the space.",
-      "categoryId": 1,
-      "images": [
-        "https://assets.projectwoop.it/spaziotempo/spaziotempo.jpg",
-        "https://assets.projectwoop.it/spaziotempo/anima1.jpg",
-        "https://assets.projectwoop.it/spaziotempo/anima2.jpg",
-        "https://assets.projectwoop.it/spaziotempo/anima3.jpg",
-        "https://assets.projectwoop.it/spaziotempo/anima4.jpg",
-        "https://assets.projectwoop.it/spaziotempo/anima5.jpg",
-        "https://assets.projectwoop.it/spaziotempo/anima6.jpg",
-        "https://assets.projectwoop.it/spaziotempo/bubbly1.jpg",
-        "https://assets.projectwoop.it/spaziotempo/bubbly3.jpg",
-        "https://assets.projectwoop.it/spaziotempo/bubbly4.jpg",
-        "https://assets.projectwoop.it/spaziotempo/bubbly5.jpg",
-        "https://assets.projectwoop.it/spaziotempo/bubbly6.jpg",
-        "https://assets.projectwoop.it/spaziotempo/relativo.jpg",
-        "https://assets.projectwoop.it/spaziotempo/breath1.jpg",
-        "https://assets.projectwoop.it/spaziotempo/breath2.jpg",
-        "https://assets.projectwoop.it/spaziotempo/breath3.jpg",
-        "https://assets.projectwoop.it/spaziotempo/breath4.jpg",
-        "https://assets.projectwoop.it/spaziotempo/breath5.jpg",
-        "https://assets.projectwoop.it/spaziotempo/breath6.jpg"
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Marasma",
-      "description": "Marasma blends chaos and order in a seemingly discordant manner. In nature, chaos manifests in various forms, yet upon closer examination, an underlying order emerges. Marasma seeks to invert this perception. At its core lies a perfect geometric shape: a cube, reminiscent of an orderly grid. However, this plane is supported by elements arranged chaotically, defying immediate comprehension. Only through meticulous study of each cube does an internal schema of order reveal itself, making the structure possible.",
-      "categoryId": 1,
-      "images": [
-        "https://assets.projectwoop.it/marasma/marasma.jpg",
-        "https://assets.projectwoop.it/marasma/marasma2.jpg",
-        "https://assets.projectwoop.it/marasma/marasma3.jpg",
-        "https://assets.projectwoop.it/marasma/marasma4.jpg",
-        "https://assets.projectwoop.it/marasma/marasma5.jpg"
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Oltremodo",
-      "description": "Oltremodo is a collection that leverages the simplest production techniques to achieve elegance. By merely bending and cutting sheet metal or tubular metal, the collection includes a chair in two different form factors, a table, and a set of cutlery and crockery.",
-      "categoryId": 1,
-      "images": [
-        "https://assets.projectwoop.it/oltremodo/oltremodo1.jpg",
-        "https://assets.projectwoop.it/oltremodo/oltremodo2.jpg",
-        "https://assets.projectwoop.it/oltremodo/oltremodo3.jpg",
-        "https://assets.projectwoop.it/oltremodo/oltremodo4.jpg",
-        "https://assets.projectwoop.it/oltremodo/oltremodo5.jpg",
-        "https://assets.projectwoop.it/oltremodo/oltremodo6.jpg",
-        "https://assets.projectwoop.it/oltremodo/oltremodo7.jpg"
-      ]
-    },
-    {
       "id": 5,
-      "name": "Acida",
-      "description": "Made just for fun, it’s indeed a fun looking stool which can be very versatile and comfortable.\nWith its vivid colors and nature-inspired form, it sparks joy and can be the core of a visually distinguishing space.\nThe structure is made of polycarbonate with a soft seat on top, the footrest is a shiny tubular metal and the backrest is made of a translucent plastic capable of revolve around the base.  ",
-      "categoryId": 1,
-      "images": [
-        "https://assets.projectwoop.it/acida/acida.jpg",
-        "https://assets.projectwoop.it/acida/acida2.jpg",
-        "https://assets.projectwoop.it/acida/acida3.jpg",
-        "https://assets.projectwoop.it/acida/acida4.jpg",
-        "https://assets.projectwoop.it/acida/acida5.jpg",
-        "https://assets.projectwoop.it/acida/acida6.jpg"
-      ]
-    },
-    {
-      "id": 6,
-      "name": "Phone 1",
-      "description": "One of my most serious early projects is a phone with a unique design that defies market trends, making it stand out. The camera is particularly noteworthy. Instead of maximizing the number of cameras, I opted for a single sensor and utilized the phone's entire height to enhance its features. By allowing the lens to move along the phone's length, it replicates the functionality of a DSLR in a slim form factor. This concept was so innovative that Apple patented a similar technology years later.",
-      "categoryId": 1,
-      "images": [
-        "https://assets.projectwoop.it/phone-1/ph1.jpg",
-        "https://assets.projectwoop.it/phone-1/ph2.jpg",
-        "https://assets.projectwoop.it/phone-1/ph3.jpg",
-        "https://assets.projectwoop.it/phone-1/ph4.jpg",
-        "https://assets.projectwoop.it/phone-1/ph5.jpg",
-        "https://assets.projectwoop.it/phone-1/ph6.jpg"
-      ]
-    },
-    {
-      "id": 7,
-      "name": "Razer Phone 2",
-      "description": "In this project, I explored ways to make the back of a phone functional for gaming by incorporating a touchpad that can be used for aiming in shooter games or unlocking additional features in exclusive titles. For the rest of the redesign, I adhered closely to Razer's original design language. I shared images of the concept with numerous online magazines and influencers, and some began to speculate that this might be the actual Razer Phone 2. Based on the feedback and comments received, the concept was well-received.",
-      "categoryId": 1,
-      "images": [
-        "https://assets.projectwoop.it/rzr-phone-2/news.jpg",
-        "https://assets.projectwoop.it/rzr-phone-2/rzr1.jpg",
-        "https://assets.projectwoop.it/rzr-phone-2/rzr2.jpg",
-        "https://assets.projectwoop.it/rzr-phone-2/rzr3.jpg",
-        "https://assets.projectwoop.it/rzr-phone-2/rzr4.jpg"
-      ]
-    },
-    {
-      "id": 8,
-      "name": "Cyber Sink",
-      "description": "In 2019, Tesla unveiled what is arguably the most controversial truck ever created. I admired its boldness. Therefore, I decided to apply the same distinctive design language to a sink. This sink features unique elements, such as two knobs—one for pressure and one for temperature—that can maintain a consistent water temperature, as well as Qi charging bases for charging devices like the Cyber Toothbrush Mk I. Additionally, the project includes a smart mirror capable of displaying the most useful information for your day.",
-      "categoryId": 1,
-      "images": [
-        "https://assets.projectwoop.it/cyber-sink/sink1.jpg",
-        "https://assets.projectwoop.it/cyber-sink/sink2.jpg",
-        "https://assets.projectwoop.it/cyber-sink/sink3.jpg",
-        "https://assets.projectwoop.it/cyber-sink/sink4.jpg",
-        "https://assets.projectwoop.it/cyber-sink/sink5.jpg",
-        "https://assets.projectwoop.it/cyber-sink/sink6.jpg"
-      ]
-    },
-    {
-      "id": 9,
       "name": "Flusso",
       "description": "A wall lamp with a minimalist design that requires physical interaction to be turned on. The light-emitting body must be manually lifted for it to start illuminating. The lamp features a continuous dimming system, meaning the brightness increases proportionally to the height at which the light-emitting body is raised.",
       "categoryId": 1,
@@ -401,7 +354,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 6,
       "name": "Gravità",
       "description": "The Gravità table lamp requires physical interaction to turn on the light. Despite its unique functionality, Gravità offers a natural user experience that goes beyond mere illumination. When off, a shiny metal ball is visible on its base. The upper part resembles an inverted cone, inviting the user to throw the ball inside. This action closes a low voltage circuit, turning on the light. To turn it off, lift the pipes to let the ball fall back onto the base, opening the circuit and extinguishing the light.",
       "categoryId": 1,
@@ -419,60 +372,105 @@
       ]
     },
     {
-      "id": 11,
-      "name": "SottoSopra app",
-      "description": "Working at Overzoom, I’ve made the app responsible to keep track of the work in progress railway burial of my city, Andria.\nI’ve made firstly the UI/UX project, curing every visual aspect, then developed the app itself using Flutter.",
-      "categoryId": 3,
+      "id": 7,
+      "name": "Marasma",
+      "description": "Marasma blends chaos and order in a seemingly discordant manner. In nature, chaos manifests in various forms, yet upon closer examination, an underlying order emerges. Marasma seeks to invert this perception. At its core lies a perfect geometric shape: a cube, reminiscent of an orderly grid. However, this plane is supported by elements arranged chaotically, defying immediate comprehension. Only through meticulous study of each cube does an internal schema of order reveal itself, making the structure possible.",
+      "categoryId": 1,
       "images": [
-        "https://assets.projectwoop.it/sottosopra/sottosopra1.jpg",
-        "https://assets.projectwoop.it/sottosopra/sottosopra-2.jpg",
-        "https://assets.projectwoop.it/sottosopra/sottosopra-3.jpg",
-        "https://assets.projectwoop.it/sottosopra/sottosopra-4.jpg"
+        "https://assets.projectwoop.it/marasma/marasma.jpg",
+        "https://assets.projectwoop.it/marasma/marasma2.jpg",
+        "https://assets.projectwoop.it/marasma/marasma3.jpg",
+        "https://assets.projectwoop.it/marasma/marasma4.jpg",
+        "https://assets.projectwoop.it/marasma/marasma5.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Oltremodo",
+      "description": "Oltremodo is a collection that leverages the simplest production techniques to achieve elegance. By merely bending and cutting sheet metal or tubular metal, the collection includes a chair in two different form factors, a table, and a set of cutlery and crockery.",
+      "categoryId": 1,
+      "images": [
+        "https://assets.projectwoop.it/oltremodo/oltremodo1.jpg",
+        "https://assets.projectwoop.it/oltremodo/oltremodo2.jpg",
+        "https://assets.projectwoop.it/oltremodo/oltremodo3.jpg",
+        "https://assets.projectwoop.it/oltremodo/oltremodo4.jpg",
+        "https://assets.projectwoop.it/oltremodo/oltremodo5.jpg",
+        "https://assets.projectwoop.it/oltremodo/oltremodo6.jpg",
+        "https://assets.projectwoop.it/oltremodo/oltremodo7.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Acida",
+      "description": "Made just for fun, it’s indeed a fun looking stool which can be very versatile and comfortable.\nWith its vivid colors and nature-inspired form, it sparks joy and can be the core of a visually distinguishing space.\nThe structure is made of polycarbonate with a soft seat on top, the footrest is a shiny tubular metal and the backrest is made of a translucent plastic capable of revolve around the base.  ",
+      "categoryId": 1,
+      "images": [
+        "https://assets.projectwoop.it/acida/acida.jpg",
+        "https://assets.projectwoop.it/acida/acida2.jpg",
+        "https://assets.projectwoop.it/acida/acida3.jpg",
+        "https://assets.projectwoop.it/acida/acida4.jpg",
+        "https://assets.projectwoop.it/acida/acida5.jpg",
+        "https://assets.projectwoop.it/acida/acida6.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Phone 1",
+      "description": "One of my most serious early projects is a phone with a unique design that defies market trends, making it stand out. The camera is particularly noteworthy. Instead of maximizing the number of cameras, I opted for a single sensor and utilized the phone's entire height to enhance its features. By allowing the lens to move along the phone's length, it replicates the functionality of a DSLR in a slim form factor. This concept was so innovative that Apple patented a similar technology years later.",
+      "categoryId": 1,
+      "images": [
+        "https://assets.projectwoop.it/phone-1/ph1.jpg",
+        "https://assets.projectwoop.it/phone-1/ph2.jpg",
+        "https://assets.projectwoop.it/phone-1/ph3.jpg",
+        "https://assets.projectwoop.it/phone-1/ph4.jpg",
+        "https://assets.projectwoop.it/phone-1/ph5.jpg",
+        "https://assets.projectwoop.it/phone-1/ph6.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Razer Phone 2",
+      "description": "In this project, I explored ways to make the back of a phone functional for gaming by incorporating a touchpad that can be used for aiming in shooter games or unlocking additional features in exclusive titles. For the rest of the redesign, I adhered closely to Razer's original design language. I shared images of the concept with numerous online magazines and influencers, and some began to speculate that this might be the actual Razer Phone 2. Based on the feedback and comments received, the concept was well-received.",
+      "categoryId": 1,
+      "images": [
+        "https://assets.projectwoop.it/rzr-phone-2/news.jpg",
+        "https://assets.projectwoop.it/rzr-phone-2/rzr1.jpg",
+        "https://assets.projectwoop.it/rzr-phone-2/rzr2.jpg",
+        "https://assets.projectwoop.it/rzr-phone-2/rzr3.jpg",
+        "https://assets.projectwoop.it/rzr-phone-2/rzr4.jpg"
       ]
     },
     {
       "id": 12,
-      "name": "Orange Charge app",
-      "description": "Orange Charge is an app thanks to which you can charge your electric vehicle via the Orange Network. Like every project done in Overzoom, I’ve first made the UX/UI project then developed the whole app. For this project I’ve also done the back-end responsible of communicating with the chargeboxes in NodeJS.",
-      "categoryId": 3,
+      "name": "Cyber Sink",
+      "description": "In 2019, Tesla unveiled what is arguably the most controversial truck ever created. I admired its boldness. Therefore, I decided to apply the same distinctive design language to a sink. This sink features unique elements, such as two knobs—one for pressure and one for temperature—that can maintain a consistent water temperature, as well as Qi charging bases for charging devices like the Cyber Toothbrush Mk I. Additionally, the project includes a smart mirror capable of displaying the most useful information for your day.",
+      "categoryId": 1,
       "images": [
-        "https://assets.projectwoop.it/orange/orange-1.jpg",
-        "https://assets.projectwoop.it/orange/orange-2.jpg",
-        "https://assets.projectwoop.it/orange/orange-3.jpg",
-        "https://assets.projectwoop.it/orange/orange-4.jpg"
-
+        "https://assets.projectwoop.it/cyber-sink/sink1.jpg",
+        "https://assets.projectwoop.it/cyber-sink/sink2.jpg",
+        "https://assets.projectwoop.it/cyber-sink/sink3.jpg",
+        "https://assets.projectwoop.it/cyber-sink/sink4.jpg",
+        "https://assets.projectwoop.it/cyber-sink/sink5.jpg",
+        "https://assets.projectwoop.it/cyber-sink/sink6.jpg"
       ]
     },
     {
       "id": 13,
-      "name": "BachecApp & FollowApp",
-      "description": "Two really complete projects done in Overzoom, in which I’ve cured the whole branding and design language, then made the UX/UI part for both the mobile app and the desktop back-office and finally developed mobile app in Flutter, back-end in NodeJS and back-office in ReactJS.",
-      "categoryId": 3,
+      "name": "MnginzUI",
+      "description": "MnginzUI is a comprehensive mobile UI Kit I designed and developed as a production-ready Flutter package. The primary goal was to create a \"single source of truth\" that bridges the gap between design and development, accelerating the build process by providing a robust library of pre-built, consistent, and highly customizable components.\n\nThe system is delivered as a private dependency, allowing for complete integration into any Flutter project. Its architecture is built for flexibility; the entire look and feel can be easily configured by defining the \"Theme\" in the project's main file. This centralized approach allows a development team to rapidly customize all colors and visual properties, adapting the entire component library to any brand identity with minimal effort.\n\nBeyond visual customization, MnginzUI is engineered for inclusivity and is fully compliant with AGID accessibility requirements. The library includes a complete inventory of essential components—from buttons and inputs to navigation bars—all built to be fully usable via various input supports. Furthermore, it allows for deeper accessibility configurations, offering modes for reduced animations, reduced transparency, and high contrast to ensure the final application is usable by all.",
+      "categoryId": 2,
       "images": [
-        "https://assets.projectwoop.it/bachecapp-followapp/bachecapp-followapp-1.jpg",
-        "https://assets.projectwoop.it/bachecapp-followapp/bachecapp-followapp-2.jpg",
-        "https://assets.projectwoop.it/bachecapp-followapp/bachecapp-followapp-3.jpg",
-        "https://assets.projectwoop.it/bachecapp-followapp/bachecapp-followapp-4.jpg"
-
+        "https://assets.projectwoop.it/mnginzui/mnginz-1.jpg",
+        "https://assets.projectwoop.it/mnginzui/mnginz-2.jpg",
+        "https://assets.projectwoop.it/mnginzui/mnginz-3.jpg",
+        "https://assets.projectwoop.it/mnginzui/mnginz-4.jpg"
       ]
     },
     {
       "id": 14,
-      "name": "Reraise app",
-      "description": "App made for a professional poker room based in Barletta. In Overzoom, I’ve been able to design and develop an app capable of register new users and make them do all they need in the poker room via their personal QR-Code. \nThe app also shows personal infos like personal points, tickets and the jackpot. It also features a live section where you can watch on-going tournaments and their real-time infos.",
-      "categoryId": 3,
-      "images": [
-        "https://assets.projectwoop.it/reraise/reraise-1.jpg",
-        "https://assets.projectwoop.it/reraise/reraise-2.jpg",
-        "https://assets.projectwoop.it/reraise/reraise-3.jpg",
-        "https://assets.projectwoop.it/reraise/reraise-4.jpg"
-      ]
-    },
-    {
-      "id": 15,
       "name": "Overzoom UI",
       "description": "Every great brand that wants to stand out needs an impactful visual coherence. Big brands put a lot of efforts into making their User Interfaces well recognizable, familiar and efficient. For Overzoom, I’ve designed a UI kit that shapes the future of the company products, improving by a lot the quality of the softwares developed.",
-      "categoryId": 3,
+      "categoryId": 2,
       "images": [
         "https://assets.projectwoop.it/overzoom-ui/overzoom-ui-1.jpg",
         "https://assets.projectwoop.it/overzoom-ui/overzoom-ui-2.jpg",
@@ -480,7 +478,18 @@
         "https://assets.projectwoop.it/overzoom-ui/overzoom-ui-4.jpg"
       ]
     },
-
+    {
+      "id": 15,
+      "name": "Trani Autism Friendly +",
+      "description": "Trani Autism Friendly + is a mobile application I designed for the Municipality of Trani in collaboration with Overzoom, driven by a clear social mission: to make the city more inclusive and accessible for people on the autism spectrum and beyond. My core contribution was leading the entire User Experience and User Interface design, placing paramount importance on the specific needs of a neurodiverse audience.\n\nThe primary UI/UX goal was to create a simple, linear, and predictable experience, eliminating all potential sources of stress or cognitive overload. The interface guides the user clearly, allowing them to easily identify local businesses offering dedicated support, contact them, and stay updated on related news and events. The information architecture was structured to be intuitive, with clean flows that accomplish specific tasks, like registering for an event, in the fewest possible steps.\n\nTo guarantee this levelof usability, I implemented my own MnginzUI component library. This was a strategic decision: it allowed me to build an interface that was not only visually consistent but also natively accessible. By leveraging the pre-validated components from MnginzUI, the app meets accessibility requirements (AGID-compliant), ensuring it is fully usable by individuals with various cognitive, visual, or motor difficulties by supporting features like high contrast and reduced animations.",
+      "categoryId": 2,
+      "images": [
+        "https://assets.projectwoop.it/taf/taf-1.jpg",
+        "https://assets.projectwoop.it/taf/taf-2.jpg",
+        "https://assets.projectwoop.it/taf/taf-3.jpg",
+        "https://assets.projectwoop.it/taf/taf-4.jpg"
+      ]
+    },
     {
       "id": 16,
       "name": "SottoSopra app",
@@ -533,14 +542,105 @@
     },
     {
       "id": 20,
+      "name": "MnginzUI",
+      "description": "MnginzUI is a comprehensive mobile UI Kit I developed to serve as a versatile and scalable foundation for any app design project. The primary goal was to create a \"single source of truth\" that accelerates the design and development workflow, ensuring pixel-perfect consistency while eliminating the need to redesign common components from scratch.\n\nThe kit includes a complete inventory of essential, mobile-first components, covering everything from atomic elements like buttons, input fields, and selection controls to complex organisms such as headers, titles, and navigation bars. Each element was meticulously designed for clarity and intuitive user interaction, providing a robust set of building blocks for any interface.\n\nThe core strength of MnginzUI is its high adaptability. The entire system is architected to be instantly customized to any brand identity simply by changing a single primary accent color variable. This flexibility allows designers to rapidly prototype and deploy a visually cohesive, on-brand application with minimal setup and maximum efficiency.",
+      "categoryId": 3,
+      "images": [
+        "https://assets.projectwoop.it/mnginzui/mnginz-1.jpg",
+        "https://assets.projectwoop.it/mnginzui/mnginz-2.jpg",
+        "https://assets.projectwoop.it/mnginzui/mnginz-3.jpg",
+        "https://assets.projectwoop.it/mnginzui/mnginz-4.jpg",
+        "https://assets.projectwoop.it/mnginzui/mnginz-5.jpg"
+      ]
+    },
+    {
+      "id": 21,
       "name": "Overzoom UI",
       "description": "Every great brand that wants to stand out needs an impactful visual coherence. Big brands put a lot of efforts into making their User Interfaces well recognizable, familiar and efficient. For Overzoom, I’ve designed a UI kit that shapes the future of the company products, improving by a lot the quality of the softwares developed.",
-      "categoryId": 2,
+      "categoryId": 3,
       "images": [
         "https://assets.projectwoop.it/overzoom-ui/overzoom-ui-1.jpg",
         "https://assets.projectwoop.it/overzoom-ui/overzoom-ui-2.jpg",
         "https://assets.projectwoop.it/overzoom-ui/overzoom-ui-3.jpg",
         "https://assets.projectwoop.it/overzoom-ui/overzoom-ui-4.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Trani Autism Friendly +",
+      "description": "Trani Autism Friendly + is a mobile application I developed for the Municipality of Trani and Overzoom, designed to make the city more inclusive for people on the autism spectrum. To ensure the app was accessible to the widest possible audience on both iOS and Android, I engineered the project from the ground up using Flutter, delivering a high-performance, cross-platform solution from a single codebase.\n\nMy own MnginzUI component library was the technical foundation for the app's entire front-end. This was a strategic decision that dramatically accelerated the development lifecycle. By integrating MnginzUI as a private package, I could leverage a complete set of pre-built, production-ready components, allowing me to focus on implementing core business logic—such as finding supported businesses, managing event registrations, and delivering news.\n\nThe most significant advantage of this approach was ensuring deep accessibility. Because MnginzUI is built to be AGID-compliant, the app was inherently equipped with features vital for its specific audience, including support for various input methods, high-contrast modes, and reduced animations. This allowed me to deliver a robust, fully accessible, and easy-to-maintain application that met the client's complex requirements.",
+      "categoryId": 3,
+      "images": [
+        "https://assets.projectwoop.it/taf/taf-1.jpg",
+        "https://assets.projectwoop.it/taf/taf-2.jpg",
+        "https://assets.projectwoop.it/taf/taf-3.jpg",
+        "https://assets.projectwoop.it/taf/taf-4.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "SottoSopra app",
+      "description": "Working at Overzoom, I’ve made the app responsible to keep track of the work in progress railway burial of my city, Andria.\nI’ve made firstly the UI/UX project, curing every visual aspect, then developed the app itself using Flutter.",
+      "categoryId": 3,
+      "images": [
+        "https://assets.projectwoop.it/sottosopra/sottosopra1.jpg",
+        "https://assets.projectwoop.it/sottosopra/sottosopra-2.jpg",
+        "https://assets.projectwoop.it/sottosopra/sottosopra-3.jpg",
+        "https://assets.projectwoop.it/sottosopra/sottosopra-4.jpg"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Orange Charge app",
+      "description": "Orange Charge is an app thanks to which you can charge your electric vehicle via the Orange Network. Like every project done in Overzoom, I’ve first made the UX/UI project then developed the whole app. For this project I’ve also done the back-end responsible of communicating with the chargeboxes in NodeJS.",
+      "categoryId": 3,
+      "images": [
+        "https://assets.projectwoop.it/orange/orange-1.jpg",
+        "https://assets.projectwoop.it/orange/orange-2.jpg",
+        "https://assets.projectwoop.it/orange/orange-3.jpg",
+        "https://assets.projectwoop.it/orange/orange-4.jpg"
+
+      ]
+    },
+    {
+      "id": 25,
+      "name": "BachecApp & FollowApp",
+      "description": "Two really complete projects done in Overzoom, in which I’ve cured the whole branding and design language, then made the UX/UI part for both the mobile app and the desktop back-office and finally developed mobile app in Flutter, back-end in NodeJS and back-office in ReactJS.",
+      "categoryId": 3,
+      "images": [
+        "https://assets.projectwoop.it/bachecapp-followapp/bachecapp-followapp-1.jpg",
+        "https://assets.projectwoop.it/bachecapp-followapp/bachecapp-followapp-2.jpg",
+        "https://assets.projectwoop.it/bachecapp-followapp/bachecapp-followapp-3.jpg",
+        "https://assets.projectwoop.it/bachecapp-followapp/bachecapp-followapp-4.jpg"
+
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Reraise app",
+      "description": "App made for a professional poker room based in Barletta. In Overzoom, I’ve been able to design and develop an app capable of register new users and make them do all they need in the poker room via their personal QR-Code. \nThe app also shows personal infos like personal points, tickets and the jackpot. It also features a live section where you can watch on-going tournaments and their real-time infos.",
+      "categoryId": 3,
+      "images": [
+        "https://assets.projectwoop.it/reraise/reraise-1.jpg",
+        "https://assets.projectwoop.it/reraise/reraise-2.jpg",
+        "https://assets.projectwoop.it/reraise/reraise-3.jpg",
+        "https://assets.projectwoop.it/reraise/reraise-4.jpg"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Project Woop - Branding",
+      "description": "Personal branding project. Its origin is connected to an years-long unconscious story, but its final form is a totally defined identity.\nThe logo is both simple and recognizable, working well in every occasion. The similarity to a human eye has made it possible to make it a 3D mascotte, and its simpleness can generate a lot of variations all equally loyal to the design language.\n The name is short and of impact. Woop is difficult to forget as a sound and implicitly makes you think about something future oriented, innovative.",
+      "categoryId": 4,
+      "images": [
+        "https://assets.projectwoop.it/woop/woop.jpg",
+        "https://assets.projectwoop.it/woop/woop-2.jpg",
+        "https://assets.projectwoop.it/woop/1.jpg",
+        "https://assets.projectwoop.it/woop/2.jpg",
+        "https://assets.projectwoop.it/woop/3.jpg",
+        "https://assets.projectwoop.it/woop/4.jpg",
+        "https://assets.projectwoop.it/woop/6.jpg",
+        "https://assets.projectwoop.it/woop/7.jpg"
       ]
     }
   ]
