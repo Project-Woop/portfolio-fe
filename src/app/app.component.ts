@@ -22,8 +22,13 @@ import { FooterComponent } from "./components/footer/footer.component";
                 <app-footer></app-footer>
             </div>
         </div>
-        <div class="ball-bg dark:ball-bg-dark absolute path1"></div>
-        <div class="ball-bg dark:ball-bg-dark absolute path2"></div>
+        <div class="mesh-overlay">
+            <div class="mesh-blob mesh-blob--1 mesh-fill dark:mesh-fill-dark"></div>
+            <div class="mesh-blob mesh-blob--2 mesh-fill dark:mesh-fill-dark"></div>
+            <div class="mesh-blob mesh-blob--3 mesh-fill dark:mesh-fill-dark"></div>
+            <div class="mesh-blob mesh-blob--4 mesh-fill dark:mesh-fill-dark"></div>
+        </div>
+        <div class="mesh-veil dark:mesh-veil-dark absolute inset-0"></div>
     </div>
   `,
   styleUrls: ["./app.component.scss"],

@@ -135,26 +135,22 @@ html {
     color: rgb(var(--background-color));
   }
 
-  .ball-bg {
-    border-radius: 100%;
-    background: radial-gradient(
-        rgba(var(--primary-color), 0.4) 0%,
-        rgba(var(--primary-color), 0) 70%
-    );
-    height: 80vh;
-    width: 50vh;
-    z-index: 0;
+  // Mesh gradient background — blob fill colors (keep current palette)
+  .mesh-fill {
+    background-color: rgb(var(--primary-color));
   }
 
-  .ball-bg-dark {
-    border-radius: 100%;
-    background: radial-gradient(
-        rgba(var(--background-color), 0.4) 0%,
-        rgba(var(--background-color), 0) 70%
-    );
-    height: 80vh;
-    width: 50vh;
-    z-index: 0;
+  .mesh-fill-dark {
+    background-color: rgb(var(--background-color));
+  }
+
+  // Soft veil rendered over the blobs to blend them into the base
+  .mesh-veil {
+    background-color: rgb(var(--background-color));
+  }
+
+  .mesh-veil-dark {
+    background-color: rgb(var(--background-dark-color));
   }
 
   .svg-primary {
@@ -188,6 +184,89 @@ html {
 
 
 // ---
+
+/* Animated mesh gradient background (keijo-style, current palette) */
+.mesh-overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  pointer-events: none;
+  filter: blur(10rem);
+}
+
+.mesh-blob {
+  position: absolute;
+  border-radius: 50%;
+  // Light mode: stronger presence (dark slate blobs need more opacity to read on the light base)
+  --mesh-op-min: 0.45;
+  --mesh-op-max: 0.7;
+}
+
+.mesh-blob--1 {
+  top: 10%;
+  left: 15%;
+  width: 20rem;
+  height: 20rem;
+  animation: mesh-pulse 16s infinite alternate ease-in-out;
+}
+
+.mesh-blob--2 {
+  right: 20%;
+  bottom: 15%;
+  width: 25rem;
+  height: 25rem;
+  animation: mesh-pulse 20s infinite alternate ease-in-out;
+  animation-delay: -5s;
+}
+
+.mesh-blob--3 {
+  top: 20%;
+  right: 10%;
+  width: 20rem;
+  height: 20rem;
+  animation: mesh-pulse 18s infinite alternate ease-in-out;
+  animation-delay: -8s;
+}
+
+.mesh-blob--4 {
+  left: 10%;
+  bottom: 25%;
+  width: 15rem;
+  height: 15rem;
+  animation: mesh-pulse 14s infinite alternate ease-in-out;
+  animation-delay: -2s;
+}
+
+@keyframes mesh-pulse {
+  0% {
+    opacity: var(--mesh-op-min);
+    transform: scale(0.9);
+  }
+  100% {
+    opacity: var(--mesh-op-max);
+    transform: scale(1.2);
+  }
+}
+
+/* Soft veil blended over the blobs (below page content) */
+.mesh-veil {
+  z-index: 0;
+  pointer-events: none;
+  opacity: 0.05; // subtle in light mode so blobs stay visible
+}
+
+@media (prefers-color-scheme: dark) {
+  .mesh-blob {
+    --mesh-op-min: 0.25;
+    --mesh-op-max: 0.4;
+  }
+  .mesh-veil {
+    opacity: 0.15;
+  }
+}
 
 body {
   color: rgb(var(--primary-color));
